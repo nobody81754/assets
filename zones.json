@@ -3873,5 +3873,13 @@
     "url": "{HTML_URL}/481.html",
     "author": "Banbuds etc",
     "authorLink": "https://gamebanana.com/mods/44334"
+  },
+  {
+    "id": 482,
+    "name": "Human Expenditure Program",
+    "cover": "{COVER_URL}/482.png",
+    "url": "{HTML_URL}/482.html",
+    "author": "SHROOMYCHRIST-STUDIOS",
+    "authorLink": "https://shroomychrist-studios.itch.io/"
   }
 ]
