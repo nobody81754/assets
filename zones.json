@@ -3945,5 +3945,85 @@
     "url": "{HTML_URL}/490.html",
     "author": "Neweichgames",
     "authorLink": "https://www.neweichgames.com"
+  },
+    {
+    "id": 491,
+    "name": "I woke up next to you again.",
+    "cover": "{COVER_URL}/491.png",
+    "url": "{HTML_URL}/491.html",
+    "author": "angela he",
+    "authorLink": "https://zephyo.itch.io/i-woke-up"
+  },
+    {
+    "id": 492,
+    "name": "UNDERWHEELS",
+    "cover": "{COVER_URL}/492.png",
+    "url": "{HTML_URL}/492.html",
+    "author": "LakenDaCoda",
+    "authorLink": "https://www.newgrounds.com/portal/view/987750"
+  },
+    {
+    "id": 493,
+    "name": "RigBMX",
+    "cover": "{COVER_URL}/493.png",
+    "url": "{HTML_URL}/493.html",
+    "author": "Cartoon Network",
+    "authorLink": "https://www.cartoonnetwork.com"
+  },
+   {
+    "id": 494,
+    "name": "RigBMX 2",
+    "cover": "{COVER_URL}/494.png",
+    "url": "{HTML_URL}/494.html",
+    "author": "Cartoon Network",
+    "authorLink": "https://www.cartoonnetwork.com"
+  },
+   {
+    "id": 495,
+    "name": "groon groon, babey!",
+    "cover": "{COVER_URL}/495.png",
+    "url": "{HTML_URL}/495.html",
+    "author": "tanner bananer",
+    "authorLink": "https://goodboytan.itch.io/gg-kart"
+  },
+  {
+    "id": 496,
+    "name": "Friday Night Funkin': Jeffy's Endless Aethos",
+    "cover": "{COVER_URL}/496.png",
+    "url": "{HTML_URL}/496.html",
+    "author": "jeffyfansml99 etc",
+    "authorLink": "https://gamebanana.com/mods/504934"
+  },
+{
+    "id": 497,
+    "name": "Friday Night Funkin': vs. BOPCITY",
+    "cover": "{COVER_URL}/497.png",
+    "url": "{HTML_URL}/497.html",
+    "author": "Daniel Hummus",
+    "authorLink": "https://gamebanana.com/mods/527514"
+  },
+{
+    "id": 498,
+    "name": "Friday Night Funkin': 17 Bucks: Floor 1",
+    "cover": "{COVER_URL}/498.png",
+    "url": "{HTML_URL}/498.html",
+    "author": "Peacocok6k",
+    "authorLink": "https://gamebanana.com/mods/461390"
+  },
+  {
+    "id": 499,
+    "name": "Friday Night Funkin': FIRE IN THE HOLE: Lobotomy Dash Funkin'",
+    "cover": "{COVER_URL}/499.png",
+    "url": "{HTML_URL}/499.html",
+    "author": "CoolDudeCrafter",
+    "authorLink": "https://gamebanana.com/mods/490658"
+  },
+  {
+    "id": 500,
+    "name": "Friday Night Funkin': TWIDDLEFINGER",
+    "cover": "{COVER_URL}/500.png",
+    "url": "{HTML_URL}/500.html",
+    "author": "MAXPROLOVER998",
+    "authorLink": "https://gamebanana.com/mods/525021"
   }
 ]
