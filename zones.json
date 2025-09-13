@@ -3897,5 +3897,13 @@
     "url": "{HTML_URL}/484.html",
     "author": "CPJP Team",
     "authorLink": "https://gamebanana.com/mods/584886"
+  },
+  {
+    "id": 485,
+    "name": "Friday Night Funkin vs. Garcello",
+    "cover": "{COVER_URL}/485.png",
+    "url": "{HTML_URL}/485.html",
+    "author": "atsuover etc",
+    "authorLink": "https://gamebanana.com/mods/166531"
   }
 ]
