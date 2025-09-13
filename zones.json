@@ -3881,5 +3881,13 @@
     "url": "{HTML_URL}/482-2.html",
     "author": "SHROOMYCHRIST-STUDIOS",
     "authorLink": "https://shroomychrist-studios.itch.io/"
+  },
+  {
+    "id": 483,
+    "name": "Friday Night Funkin Hit Single Real",
+    "cover": "{COVER_URL}/483.png",
+    "url": "{HTML_URL}/483.html",
+    "author": "Sturm/Churgney Gurgney etc",
+    "authorLink": "https://gamebanana.com/mods/395039"
   }
 ]
