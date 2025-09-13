@@ -3812,7 +3812,7 @@
   },
   {
     "id": 474,
-    "name": "Friday Night Funkin’ V.S. Whitty",
+    "name": "Friday Night Funkin': V.S. Whitty",
     "cover": "{COVER_URL}/474.png",
     "url": "{HTML_URL}/474.html",
     "author": "Nate Anim8",
@@ -3820,7 +3820,7 @@
   },
   {
     "id": 475,
-    "name": "Friday Night Funkin B-Sides",
+    "name": "Friday Night Funkin': B-Sides",
     "cover": "{COVER_URL}/475.png",
     "url": "{HTML_URL}/475.html",
     "author": "Rozebud",
@@ -3828,7 +3828,7 @@
   },
   {
     "id": 476,
-    "name": "Friday Night Funkin Vs. Hex",
+    "name": "Friday Night Funkin': Vs. Hex",
     "cover": "{COVER_URL}/476.png",
     "url": "{HTML_URL}/476.html",
     "author": "YingYang48 etc",
@@ -3836,7 +3836,7 @@
   },
   {
     "id": 477,
-    "name": "Friday Night Funkin Vs. Hatsune Miku",
+    "name": "Friday Night Funkin': Vs. Hatsune Miku",
     "cover": "{COVER_URL}/477.png",
     "url": "{HTML_URL}/477.html",
     "author": "evidal etc",
@@ -3844,7 +3844,7 @@
   },
   {
     "id": 478,
-    "name": "Friday Night Funkin Neo",
+    "name": "Friday Night Funkin': Neo",
     "cover": "{COVER_URL}/478.png",
     "url": "{HTML_URL}/478.html",
     "author": "JellyFishedm etc",
@@ -3860,7 +3860,7 @@
   },
   {
     "id": 480,
-    "name": "Friday Night Funkin’ Sarvente's Mid-Fight Masses",
+    "name": "Friday Night Funkin': Sarvente's Mid-Fight Masses",
     "cover": "{COVER_URL}/480.png",
     "url": "{HTML_URL}/480.html",
     "author": "Dokki.doodlez etc",
@@ -3868,7 +3868,7 @@
   },
   {
     "id": 481,
-    "name": "Friday Night Funkin vs. Tricky",
+    "name": "Friday Night Funkin': vs. Tricky",
     "cover": "{COVER_URL}/481.png",
     "url": "{HTML_URL}/481.html",
     "author": "Banbuds etc",
@@ -3884,7 +3884,7 @@
   },
   {
     "id": 483,
-    "name": "Friday Night Funkin Hit Single Real",
+    "name": "Friday Night Funkin': Hit Single Real",
     "cover": "{COVER_URL}/483.png",
     "url": "{HTML_URL}/483.html",
     "author": "Sturm/Churgney Gurgney etc",
@@ -3900,11 +3900,43 @@
   },
   {
     "id": 485,
-    "name": "Friday Night Funkin vs. Garcello",
+    "name": "Friday Night Funkin': vs. Garcello",
     "cover": "{COVER_URL}/485.png",
     "url": "{HTML_URL}/485.html",
     "author": "atsuover etc",
     "authorLink": "https://gamebanana.com/mods/166531"
+  },
+    {
+    "id": 486,
+    "name": "Friday Night Funkin': Sonic Legacy",
+    "cover": "{COVER_URL}/486.png",
+    "url": "{HTML_URL}/486.html",
+    "author": "JoeDoughBoi etc",
+    "authorLink": "https://gamebanana.com/mods/496733"
+  },
+    {
+    "id": 487,
+    "name": "Friday Night Funkin': vs. QT",
+    "cover": "{COVER_URL}/487.png",
+    "url": "{HTML_URL}/487.html",
+    "author": "Hazardous24 etc",
+    "authorLink": "https://gamebanana.com/mods/299714"
+  },
+    {
+    "id": 488,
+    "name": "Friday Night Funkin': Mistful Crimson Morning Reboot",
+    "cover": "{COVER_URL}/488.png",
+    "url": "{HTML_URL}/488.html",
+    "author": "Stonesteve etc",
+    "authorLink": "https://gamebanana.com/mods/387663"
+  },
+    {
+    "id": 489,
+    "name": "Friday Night Funkin': Indie Cross",
+    "cover": "{COVER_URL}/489.png",
+    "url": "{HTML_URL}/489.html",
+    "author": "MORØ etc",
+    "authorLink": "https://gamejolt.com/games/indiecross/643540"
   },
   {
     "id": 490,
