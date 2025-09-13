@@ -3889,5 +3889,13 @@
     "url": "{HTML_URL}/483.html",
     "author": "Sturm/Churgney Gurgney etc",
     "authorLink": "https://gamebanana.com/mods/395039"
+  },
+  {
+    "id": 484,
+    "name": "Friday Night Funkin': Creepypasta JP",
+    "cover": "{COVER_URL}/484.png",
+    "url": "{HTML_URL}/484.html",
+    "author": "CPJP Team",
+    "authorLink": "https://gamebanana.com/mods/584886"
   }
 ]
