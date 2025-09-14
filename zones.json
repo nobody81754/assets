@@ -1522,15 +1522,6 @@
     "authorLink": "https://www.ciorbynstudio.com"
   },
   {
-    "id": 189,
-    "name": "Doki Doki Literature Club",
-    "cover": "{COVER_URL}/189.png",
-    "url": "{HTML_URL}/189.html",
-    "author": "Team Salvato",
-    "authorLink": "https://teamsalvato.itch.io/ddlc",
-    "featured": true
-  },
-  {
     "id": 190,
     "name": "Five Nights at Freddy's: World",
     "cover": "{COVER_URL}/190.png",
