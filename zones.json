@@ -4016,5 +4016,37 @@
     "url": "{HTML_URL}/500.html",
     "author": "MAXPROLOVER998",
     "authorLink": "https://gamebanana.com/mods/525021"
+  },
+  {
+    "id": 501,
+    "name": "Kindergarten 3",
+    "cover": "{COVER_URL}/501.png",
+    "url": "{HTML_URL}/501.html",
+    "author": "Con Man Games, SmashGames and Sean Young",
+    "authorLink": "https://store.steampowered.com/app/2695570/Kindergarten_3/"
+  },
+  {
+    "id": 502,
+    "name": "Stick With It",
+    "cover": "{COVER_URL}/503.png",
+    "url": "{HTML_URL}/503.html",
+    "author": "Sam Hogan",
+    "authorLink": "https://samhogan.itch.io/stick-with-it/"
+  },
+  {
+    "id": 502,
+    "name": "Five Nights at Candy's",
+    "cover": "{COVER_URL}/502.png",
+    "url": "{HTML_URL}/502.html",
+    "author": "Emil \"Ace\" Macko",
+    "authorLink": "https://gamejolt.com/games/five-nights-at-candy-s-official/70253"
+  },
+  {
+    "id": 504,
+    "name": "Five Nights at Candy's 2",
+    "cover": "{COVER_URL}/504.png",
+    "url": "{HTML_URL}/504.html",
+    "author": "Emil \"Ace\" Macko",
+    "authorLink": "https://gamejolt.com/games/five-nights-at-candy-s-2-official/110234"
   }
 ]
