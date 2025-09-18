@@ -4048,5 +4048,14 @@
     "url": "{HTML_URL}/504.html",
     "author": "Emil \"Ace\" Macko",
     "authorLink": "https://gamejolt.com/games/five-nights-at-candy-s-2-official/110234"
+  },
+  {
+    "id": 505,
+    "name": "Pokemon Red",
+    "cover": "{COVER_URL}/505.png",
+    "url": "{HTML_URL}/505.html",
+    "author": "Nintendo",
+    "authorLink": "https://nintendo.com",
+    "emulator": true
   }
 ]
