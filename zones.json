@@ -1481,15 +1481,6 @@
     "authorLink": "https://github.com/zardoy/minecraft-web-client"
   },
   {
-    "id": 184,
-    "name": "Undertale",
-    "cover": "{COVER_URL}/184.png",
-    "url": "{HTML_URL}/184.html",
-    "author": "Toby Fox, BluePhoenix25",
-    "authorLink": "https://scratch.mit.edu/projects/791527350",
-    "featured": true
-  },
-  {
     "id": 185,
     "name": "Five Nights at Freddy's: Sister Location",
     "cover": "{COVER_URL}/185.png",
@@ -3399,15 +3390,6 @@
     "url": "{HTML_URL}/423.html",
     "author": "LameDev",
     "authorLink": "https://store.steampowered.com/app/3146520/WEBFISHING/",
-    "featured": true
-  },
-  {
-    "id": 425,
-    "name": "Deltarune",
-    "cover": "{COVER_URL}/425.png",
-    "url": "{HTML_URL}/425.html",
-    "author": "Toby Fox",
-    "authorLink": "https://deltarune.com",
     "featured": true
   },
   {
