@@ -4056,5 +4056,14 @@
     "url": "{HTML_URL}/507.html",
     "author": "SPLAPP-ME-DO",
     "authorLink": "https://splapp-me-do.newgrounds.com/"
+  },
+  {
+    "id": 508,
+    "name": "Super Mario Bros",
+    "cover": "{COVER_URL}/508.png",
+    "url": "{HTML_URL}/508.html",
+    "author": "Nintendo",
+    "authorLink": "https://nintendo.com",
+    "emulator": true
   }
 ]
