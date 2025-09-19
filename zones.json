@@ -4065,5 +4065,13 @@
     "author": "Nintendo",
     "authorLink": "https://nintendo.com",
     "emulator": true
+  },
+  {
+    "id": 509,
+    "name": "Friday Night Funkin’ Soft",
+    "cover": "{COVER_URL}/509.png",
+    "url": "{HTML_URL}/509.html",
+    "author": "ShiniTrexx etc",
+    "authorLink": "https://gamebanana.com/mods/523551"
   }
 ]
