@@ -4073,5 +4073,14 @@
     "url": "{HTML_URL}/509.html",
     "author": "ShiniTrexx etc",
     "authorLink": "https://gamebanana.com/mods/523551"
+  },
+  {
+    "id": 510,
+    "name": "Tomodachi Collection",
+    "cover": "{COVER_URL}/510.png",
+    "url": "{HTML_URL}/510.html",
+    "author": "Nintendo",
+    "authorLink": "https://gamebanana.com/mods/523551",
+    "emulator": true
   }
 ]
