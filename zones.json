@@ -4090,5 +4090,13 @@
     "url": "{HTML_URL}/511.html",
     "author": "rkn",
     "authorLink": "https://www.patreon.com/dogeminer/about"
+  },
+  {
+    "id": 512,
+    "name": "Final Earth 2",
+    "cover": "{COVER_URL}/512.png",
+    "url": "{HTML_URL}/512.html",
+    "author": "flori9",
+    "authorLink": "https://flori9.itch.io/the-final-earth-2"
   }
 ]
