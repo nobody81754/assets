@@ -4080,7 +4080,15 @@
     "cover": "{COVER_URL}/510.png",
     "url": "{HTML_URL}/510.html",
     "author": "Nintendo",
-    "authorLink": "https://gamebanana.com/mods/523551",
+    "authorLink": "https://nintendo.com",
     "emulator": true
+  },
+  {
+    "id": 511,
+    "name": "Doge Miner",
+    "cover": "{COVER_URL}/511.png",
+    "url": "{HTML_URL}/511.html",
+    "author": "rkn",
+    "authorLink": "https://www.patreon.com/dogeminer/about"
   }
 ]
