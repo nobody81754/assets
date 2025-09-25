@@ -4194,5 +4194,13 @@
     "url": "{HTML_URL}/524.html",
     "author": "NanaOn-Sha",
     "authorLink": "https://www.nanaon-sha.co.jp/"
+  },
+   {
+    "id": 525,
+    "name": "Friday Night Funkin': Darkness Takeover",
+    "cover": "{COVER_URL}/525.png",
+    "url": "{HTML_URL}/525.html",
+    "author": "MiniSymba",
+    "authorLink": "https://gamejolt.com/games/darknesstakeover/802587"
   }
 ]
