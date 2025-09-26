@@ -4330,5 +4330,21 @@
     "url": "{HTML_URL}/541.html",
     "author": "BAUDASlel etc.",
     "authorLink": "https://gamebanana.com/wips/73842"
+  },
+  {
+    "id": 542,
+    "name": "Karlson",
+    "cover": "{COVER_URL}/542.png",
+    "url": "{HTML_URL}/542.html",
+    "author": "DaniDev",
+    "authorLink": "https://danidev.itch.io/"
+  },
+  {
+    "id": 543,
+    "name": "Jelly Drift",
+    "cover": "{COVER_URL}/543.png",
+    "url": "{HTML_URL}/543.html",
+    "author": "DaniDev",
+    "authorLink": "https://danidev.itch.io/"
   }
 ]
