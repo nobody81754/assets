@@ -4355,5 +4355,13 @@
     "url": "{HTML_URL}/544.html",
     "author": "Anson Heung",
     "authorLink": "https://www.ansonh.com"
+  },
+  {
+    "id": 545,
+    "name": "Clash Of Vikings",
+    "cover": "{COVER_URL}/545.png",
+    "url": "{HTML_URL}/545.html",
+    "author": "unkonown",
+    "authorLink": "https://www.crazygames.com/game/clash-of-vikings"
   }
 ]
