@@ -4202,5 +4202,133 @@
     "url": "{HTML_URL}/525.html",
     "author": "MiniSymba",
     "authorLink": "https://gamejolt.com/games/darknesstakeover/802587"
+  },
+  {
+    "id": 526,
+    "name": "SpongeBob SquarePants: Land Ho!",
+    "cover": "{COVER_URL}/526.png",
+    "url": "{HTML_URL}/526.html",
+    "author": "Nickelodeon",
+    "authorLink": "https://nick.com"
+  },
+  {
+    "id": 527,
+    "name": "SpongeBob SquarePants: SpongeBob Run",
+    "cover": "{COVER_URL}/527.png",
+    "url": "{HTML_URL}/527.html",
+    "author": "Nickelodeon",
+    "authorLink": "https://nick.com"
+  },
+  {
+    "id": 528,
+    "name": "SpongeBob SquarePants: Squidward's Sizzlin' Scare",
+    "cover": "{COVER_URL}/528.png",
+    "url": "{HTML_URL}/528.html",
+    "author": "Nickelodeon",
+    "authorLink": "https://nick.com"
+  },
+  {
+    "id": 529,
+    "name": "SpongeBob SquarePants: Sandy's Sponge Stacker",
+    "cover": "{COVER_URL}/529.png",
+    "url": "{HTML_URL}/529.html",
+    "author": "Nickelodeon",
+    "authorLink": "https://nick.com"
+  },
+  {
+    "id": 530,
+    "name": "SpongeBob SquarePants: Tasty Pastry Party",
+    "cover": "{COVER_URL}/530.png",
+    "url": "{HTML_URL}/530.html",
+    "author": "Nickelodeon",
+    "authorLink": "https://nick.com"
+  },
+  {
+    "id": 531,
+    "name": "SpongeBob SquarePants: The Kah-Ray-Tay Squid",
+    "cover": "{COVER_URL}/531.png",
+    "url": "{HTML_URL}/531.html",
+    "author": "Nickelodeon",
+    "authorLink": "https://nick.com"
+  },
+  {
+    "id": 532,
+    "name": "SpongeBob SquarePants: WereSquirrel",
+    "cover": "{COVER_URL}/532.png",
+    "url": "{HTML_URL}/532.html",
+    "author": "Nickelodeon",
+    "authorLink": "https://nick.com"
+  },
+  {
+    "id": 533,
+    "name": "SpongeBob SquarePants: Krabby Katch",
+    "cover": "{COVER_URL}/533.png",
+    "url": "{HTML_URL}/533.html",
+    "author": "Nickelodeon",
+    "authorLink": "https://nick.com"
+  },
+  {
+    "id": 534,
+    "name": "Teen Titans GO!: Jump Jousts",
+    "cover": "{COVER_URL}/534.png",
+    "url": "{HTML_URL}/534.html",
+    "author": "Cartoon Network",
+    "authorLink": "https://cartoonnetwork.com"
+  },
+  {
+    "id": 535,
+    "name": "Teen Titans GO!: Jump Jousts 2",
+    "cover": "{COVER_URL}/535.png",
+    "url": "{HTML_URL}/535.html",
+    "author": "Cartoon Network",
+    "authorLink": "https://cartoonnetwork.com"
+  },
+  {
+    "id": 536,
+    "name": "Cat Connection",
+    "cover": "{COVER_URL}/536.png",
+    "url": "{HTML_URL}/536.html",
+    "author": "MOSTLY MAD PRODUCTIONS",
+    "authorLink": "https://mostlymadproductions.itch.io/cat-connection"
+  },
+  {
+    "id": 537,
+    "name": "Cat Gunner: Super Zombie Shoot",
+    "cover": "{COVER_URL}/537.png",
+    "url": "{HTML_URL}/537.html",
+    "author": "Poki",
+    "authorLink": "https://poki.com/en/g/cat-gunner-super-zombie-shoot"
+  },
+  {
+    "id": 538,
+    "name": "Love Letters",
+    "cover": "{COVER_URL}/538.png",
+    "url": "{HTML_URL}/538.html",
+    "author": "Nozomu Games",
+    "authorLink": "https://nozomu57.itch.io/love-letters"
+  },
+  {
+    "id": 539,
+    "name": "Chiikawa Puzzle",
+    "cover": "{COVER_URL}/539.png",
+    "url": "{HTML_URL}/539.html",
+    "author": "emptygamer",
+    "authorLink": "https://emptygamer.itch.io/chiikawapuzzle"
+  },
+  {
+    "id": 540,
+    "name": "myTeardrop",
+    "cover": "{COVER_URL}/540.png",
+    "url": "{HTML_URL}/540.html",
+    "author": "VENDORMINT",
+    "authorLink": "https://x.com/vendormint"
+  },
+  {
+    "id": 541,
+    "name": "Friday Night Funkin': Pibby: Apocalypse",
+    "cover": "{COVER_URL}/541.png",
+    "url": "{HTML_URL}/541.html",
+    "author": "BAUDASlel etc.",
+    "authorLink": "https://gamebanana.com/wips/73842"
   }
 ]
