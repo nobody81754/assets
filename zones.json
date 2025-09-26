@@ -1566,7 +1566,7 @@
     "id": 196,
     "name": "ULTRAKILL",
     "cover": "{COVER_URL}/196.png",
-    "url": "{HTML_URL}/196.html",
+    "url": "{HTML_URL}/196-fix.html",
     "author": "New Blood Interactive, 98corbins",
     "authorLink": "https://store.steampowered.com/app/1229490/",
     "featured": true
@@ -4337,7 +4337,8 @@
     "cover": "{COVER_URL}/542.png",
     "url": "{HTML_URL}/542.html",
     "author": "DaniDev",
-    "authorLink": "https://danidev.itch.io/"
+    "authorLink": "https://danidev.itch.io/",
+    "featured": true
   },
   {
     "id": 543,
