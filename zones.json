@@ -4363,5 +4363,13 @@
     "url": "{HTML_URL}/545.html",
     "author": "unknown",
     "authorLink": "https://www.crazygames.com/game/clash-of-vikings"
+  },
+  {
+    "id": 546,
+    "name": "Recoil",
+    "cover": "{COVER_URL}/546.png",
+    "url": "{HTML_URL}/546.html",
+    "author": "Martin Magini",
+    "authorLink": "https://play.fancade.com"
   }
 ]
