@@ -1566,7 +1566,7 @@
     "id": 196,
     "name": "ULTRAKILL",
     "cover": "{COVER_URL}/196.png",
-    "url": "{HTML_URL}/196-fix.html",
+    "url": "{HTML_URL}/196-fixed.html",
     "author": "New Blood Interactive, 98corbins",
     "authorLink": "https://store.steampowered.com/app/1229490/",
     "featured": true
