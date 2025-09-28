@@ -3404,7 +3404,7 @@
     "id": 427,
     "name": "OMORI",
     "cover": "{COVER_URL}/427.png",
-    "url": "{HTML_URL}/427.html",
+    "url": "{HTML_URL}/427-fixed.html",
     "author": "Omocat",
     "authorLink": "https://omocat.com",
     "featured": true
