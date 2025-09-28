@@ -4379,5 +4379,13 @@
     "url": "{HTML_URL}/547.html",
     "author": "Blue Wizard",
     "authorLink": "https://baseballbros.io"
+  },
+  {
+    "id": 548,
+    "name": "Football Bros",
+    "cover": "{COVER_URL}/548.png",
+    "url": "{HTML_URL}/548.html",
+    "author": "Blue Wizard",
+    "authorLink": "https://footballbros.io"
   }
 ]
