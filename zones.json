@@ -4387,5 +4387,21 @@
     "url": "{HTML_URL}/548.html",
     "author": "Blue Wizard",
     "authorLink": "https://footballbros.io" 
+  },
+  {
+    "id": 549,
+    "name": "Sonic the Hedgehog 2: Community's Cut",
+    "cover": "{COVER_URL}/549.png",
+    "url": "{HTML_URL}/549.html",
+    "author": "heyjoeway and SEGA",
+    "authorLink": "https://github.com/heyjoeway/s2disasm" 
+  },
+    {
+    "id": 550,
+    "name": "Sonic the Hedgehog 3: Angel Island Remastered",
+    "cover": "{COVER_URL}/550.png",
+    "url": "{HTML_URL}/550.html",
+    "author": "Eukaryot3K and SEGA",
+    "authorLink": "https://sonic3air.org/" 
   }
 ]
