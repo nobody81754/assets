@@ -4411,5 +4411,13 @@
     "url": "{HTML_URL}/551.html",
     "author": "VobbyGames, weirdnessworld",
     "authorLink": "https://play.google.com/store/apps/details?id=com.Hypper&hl=en_US" 
+  },
+  {
+    "id": 552,
+    "name": "Aviamasters",
+    "cover": "{COVER_URL}/552.png",
+    "url": "{HTML_URL}/552.html",
+    "author": "BGaming",
+    "authorLink": "https://bgaming.com/games/aviamasters" 
   }
 ]
