@@ -4443,5 +4443,13 @@
     "url": "{HTML_URL}/555.html",
     "author": "paperkitty etc",
     "authorLink": "https://gamebanana.com/mods/44683" 
+  },
+  {
+    "id": 556,
+    "name": "Friday Night Funkin VS. KAPI",
+    "cover": "{COVER_URL}/556.png",
+    "url": "{HTML_URL}/556.html",
+    "author": "Alexander0110 etc",
+    "authorLink": "https://gamebanana.com/mods/44555" 
   }
 ]
