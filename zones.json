@@ -4459,5 +4459,13 @@
     "url": "{HTML_URL}/557.html",
     "author": "Bennett Foddy",
     "authorLink": "https://store.steampowered.com/app/240720/Getting_Over_It_with_Bennett_Foddy/" 
+  },
+  {
+    "id": 558,
+    "name": "Friday Night Funkin Vs. Cyber Sensation",
+    "cover": "{COVER_URL}/558.png",
+    "url": "{HTML_URL}/558.html",
+    "author": "Taeyai",
+    "authorLink": "https://gamebanana.com/mods/319101" 
   }
 ]
