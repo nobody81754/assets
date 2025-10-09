@@ -4467,5 +4467,13 @@
     "url": "{HTML_URL}/558.html",
     "author": "Taeyai",
     "authorLink": "https://gamebanana.com/mods/319101" 
+  },
+  {
+    "id": 559,
+    "name": "Friday Night Funkin vs Shaggy",
+    "cover": "{COVER_URL}/559.png",
+    "url": "{HTML_URL}/559.html",
+    "author": "srPerez etc",
+    "authorLink": "https://gamebanana.com/mods/284121" 
   }
 ]
