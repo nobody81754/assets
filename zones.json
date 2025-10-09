@@ -3404,7 +3404,7 @@
     "id": 427,
     "name": "OMORI",
     "cover": "{COVER_URL}/427.png",
-    "url": "{HTML_URL}/427-a.html",
+    "url": "{HTML_URL}/427-z.html",
     "author": "Omocat",
     "authorLink": "https://omocat.com",
     "featured": true
@@ -4451,5 +4451,13 @@
     "url": "{HTML_URL}/556.html",
     "author": "Alexander0110 etc",
     "authorLink": "https://gamebanana.com/mods/44555" 
+  },
+  {
+    "id": 557,
+    "name": "Getting Over It with Bennett Foddy",
+    "cover": "{COVER_URL}/557.png",
+    "url": "{HTML_URL}/557.html",
+    "author": "Bennett Foddy",
+    "authorLink": "https://store.steampowered.com/app/240720/Getting_Over_It_with_Bennett_Foddy/" 
   }
 ]
