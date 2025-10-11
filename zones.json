@@ -4643,5 +4643,21 @@
     "url": "{HTML_URL}/581.html",
     "author": "CrazyGames",
     "authorLink": "https://www.crazygames.com/" 
+  },
+  {
+    "id": 582,
+    "name": "Friday Night Funkin': Mario's Madness",
+    "cover": "{COVER_URL}/582.png",
+    "url": "{HTML_URL}/582.html",
+    "author": "Dewott2501 etc",
+    "authorLink": "https://gamebanana.com/mods/359554" 
+  },
+  {
+    "id": 584,
+    "name": "Friday Night Funkin' vs Hypno Lullaby",
+    "cover": "{COVER_URL}/583.png",
+    "url": "{HTML_URL}/583.html",
+    "author": "Hypno Lullaby Team",
+    "authorLink": "https://gamejolt.com/games/hypnos-lullabyv2cancelled/758792" 
   }
 ]
