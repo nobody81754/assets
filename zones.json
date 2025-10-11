@@ -4475,5 +4475,165 @@
     "url": "{HTML_URL}/559.html",
     "author": "srPerez etc",
     "authorLink": "https://gamebanana.com/mods/284121" 
+  },
+  {
+    "id": 560,
+    "name": "Deltatraveler",
+    "cover": "{COVER_URL}/560.png",
+    "url": "{HTML_URL}/560.html",
+    "author": "VyletBunni",
+    "authorLink": "https://gamejolt.com/games/deltatraveler/661464" 
+  },
+  {
+    "id": 561,
+    "name": "BitGun.io",
+    "cover": "{COVER_URL}/561.png",
+    "url": "{HTML_URL}/561.html",
+    "author": "Hazmob",
+    "authorLink": "https://www.crazygames.com/game/bit-gun-io" 
+  },
+  {
+    "id": 562,
+    "name": "Boom Slingers: Reboom",
+    "cover": "{COVER_URL}/562.png",
+    "url": "{HTML_URL}/562.html",
+    "author": "Boom Corp",
+    "authorLink": "https://www.boomslingers.com/" 
+  },
+  {
+    "id": 563,
+    "name": "CG FC 25",
+    "cover": "{COVER_URL}/563.png",
+    "url": "{HTML_URL}/563.html",
+    "author": "Finz Games",
+    "authorLink": "https://www.finz.io/" 
+  },
+  {
+    "id": 564,
+    "name": "Count Masters: Stickman Games",
+    "cover": "{COVER_URL}/564.png",
+    "url": "{HTML_URL}/564.html",
+    "author": "FreePlay LLC",
+    "authorLink": "https://www.crazygames.com/game/count-masters-stickman-games" 
+  },
+  {
+    "id": 565,
+    "name": "Dalgona Candy Honeycomb Cookie",
+    "cover": "{COVER_URL}/565.png",
+    "url": "{HTML_URL}/565.html",
+    "author": "CrazyGames",
+    "authorLink": "https://www.crazygames.com/" 
+  },
+  {
+    "id": 567,
+    "name": "Highway Racer",
+    "cover": "{COVER_URL}/567.png",
+    "url": "{HTML_URL}/567.html",
+    "author": "CrazyGames",
+    "authorLink": "https://www.crazygames.com/" 
+  },
+  {
+    "id": 568,
+    "name": "Highway Racer 2 REMASTERED",
+    "cover": "{COVER_URL}/568.png",
+    "url": "{HTML_URL}/568.html",
+    "author": "CrazyGames",
+    "authorLink": "https://www.crazygames.com/" 
+  },
+  {
+    "id": 569,
+    "name": "Hula Hoop Race",
+    "cover": "{COVER_URL}/569.png",
+    "url": "{HTML_URL}/569.html",
+    "author": "CrazyGames",
+    "authorLink": "https://www.crazygames.com/" 
+  },
+  {
+    "id": 570,
+    "name": "Jelly Restaurant",
+    "cover": "{COVER_URL}/570.png",
+    "url": "{HTML_URL}/570.html",
+    "author": "CrazyGames",
+    "authorLink": "https://www.crazygames.com/" 
+  },
+  {
+    "id": 571,
+    "name": "Layers Roll",
+    "cover": "{COVER_URL}/571.png",
+    "url": "{HTML_URL}/571.html",
+    "author": "CrazyGames",
+    "authorLink": "https://www.crazygames.com/" 
+  },
+  {
+    "id": 572,
+    "name": "Lazy Jumper",
+    "cover": "{COVER_URL}/572.png",
+    "url": "{HTML_URL}/572.html",
+    "author": "CrazyGames",
+    "authorLink": "https://www.crazygames.com/" 
+  },
+  {
+    "id": 573,
+    "name": "Man Runner 2048",
+    "cover": "{COVER_URL}/573.png",
+    "url": "{HTML_URL}/573.html",
+    "author": "CrazyGames",
+    "authorLink": "https://www.crazygames.com/" 
+  },
+  {
+    "id": 574,
+    "name": "Pottery Master",
+    "cover": "{COVER_URL}/574.png",
+    "url": "{HTML_URL}/574.html",
+    "author": "CrazyGames",
+    "authorLink": "https://www.crazygames.com/" 
+  },
+  {
+    "id": 575,
+    "name": "Shovel 3D",
+    "cover": "{COVER_URL}/575.png",
+    "url": "{HTML_URL}/575.html",
+    "author": "CrazyGames",
+    "authorLink": "https://www.crazygames.com/" 
+  },
+  {
+    "id": 576,
+    "name": "Sky Riders",
+    "cover": "{COVER_URL}/576.png",
+    "url": "{HTML_URL}/576.html",
+    "author": "CrazyGames",
+    "authorLink": "https://www.crazygames.com/" 
+  },
+  {
+    "id": 577,
+    "name": "Steal Brainrot Online",
+    "cover": "{COVER_URL}/577.png",
+    "url": "{HTML_URL}/577.html",
+    "author": "CrazyGames",
+    "authorLink": "https://www.crazygames.com/" 
+  },
+  {
+    "id": 578,
+    "name": "Stickman and Guns",
+    "cover": "{COVER_URL}/578.png",
+    "url": "{HTML_URL}/578.html",
+    "author": "CrazyGames",
+    "authorLink": "https://www.crazygames.com/" 
+  },
+  {
+    "id": 579,
+    "name": "Super Star Car",
+    "cover": "{COVER_URL}/579.png",
+    "url": "{HTML_URL}/579.html",
+    "author": "CrazyGames",
+    "authorLink": "https://www.crazygames.com/" 
+  },
+  {
+    "id": 580,
+    "name": "Traffic Rider",
+    "cover": "{COVER_URL}/580.png",
+    "url": "{HTML_URL}/580.html",
+    "author": "CrazyGames",
+    "authorLink": "https://www.crazygames.com/" 
   }
 ]
