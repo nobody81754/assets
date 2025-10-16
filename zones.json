@@ -1623,7 +1623,7 @@
     "id": 203,
     "name": "DOOM",
     "cover": "{COVER_URL}/203.png",
-    "url": "{HTML_URL}/203.html",
+    "url": "{HTML_URL}/203-a.html",
     "author": "Id Software",
     "authorLink": "https://www.idsoftware.com"
   },
