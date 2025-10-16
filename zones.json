@@ -4675,5 +4675,14 @@
     "url": "{HTML_URL}/585.html",
     "author": "Bethesda Softworks",
     "authorLink": "https://bethesda.net/en/dashboard" 
+  },
+  {
+    "id": 586,
+    "name": "The Oregon Trail",
+    "cover": "{COVER_URL}/586.png",
+    "url": "{HTML_URL}/586.html",
+    "author": "MECC",
+    "authorLink": "https://archive.org/details/msdos_Oregon_Trail_The_1990" 
   }
+
 ]
