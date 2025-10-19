@@ -4683,6 +4683,77 @@
     "url": "{HTML_URL}/586.html",
     "author": "MECC",
     "authorLink": "https://archive.org/details/msdos_Oregon_Trail_The_1990" 
+  },
+  {
+    "id": 587,
+    "name": "Newgrounds Rumble",
+    "cover": "{COVER_URL}/587.png",
+    "url": "{HTML_URL}/587.html",
+    "author": "NegativeONE, Luis, MindChamber",
+    "authorLink": "https://www.newgrounds.com/portal/view/381115" 
+  },
+  {
+    "id": 588,
+    "name": "Super Mario 64",
+    "cover": "{COVER_URL}/588.png",
+    "url": "{HTML_URL}/588.html",
+    "author": "Nintendo",
+    "authorLink": "https://nintendo.com" 
+  },
+  {
+    "id": 589,
+    "name": "Sonic CD",
+    "cover": "{COVER_URL}/589.png",
+    "url": "{HTML_URL}/589.html",
+    "author": "SEGA",
+    "authorLink": "https://sega.com" 
+  },
+  {
+    "id": 590,
+    "name": "Sonic Mania",
+    "cover": "{COVER_URL}/590.png",
+    "url": "{HTML_URL}/590.html",
+    "author": "SEGA",
+    "authorLink": "https://sega.com" 
+  },
+  {
+    "id": 591,
+    "name": "Slime Rancher",
+    "cover": "{COVER_URL}/591.png",
+    "url": "{HTML_URL}/591.html",
+    "author": "Monomi Park",
+    "authorLink": "https://monomipark.com/" 
+  },
+  {
+    "id": 592,
+    "name": "Pac Man World",
+    "cover": "{COVER_URL}/592.png",
+    "url": "{HTML_URL}/592.html",
+    "author": "Full Fat Games",
+    "authorLink": "https://www.full-fat.com/" 
+  },
+  {
+    "id": 593,
+    "name": "Pac Man World 2",
+    "cover": "{COVER_URL}/593.png",
+    "url": "{HTML_URL}/593.html",
+    "author": "Full Fat Games",
+    "authorLink": "https://www.full-fat.com/" 
+  },
+  {
+    "id": 594,
+    "name": "Waterworks!",
+    "cover": "{COVER_URL}/594.png",
+    "url": "{HTML_URL}/594.html",
+    "author": "scriptwelder",
+    "authorLink": "https://scriptwelder.itch.io/waterworks" 
+  },
+  {
+    "id": 595,
+    "name": "Shapez.io",
+    "cover": "{COVER_URL}/595.png",
+    "url": "{HTML_URL}/595.html",
+    "author": "scriptwelder",
+    "authorLink": "https://scriptwelder.itch.io/waterworks" 
   }
-
 ]
