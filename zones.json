@@ -5286,6 +5286,67 @@
     "cover": "{COVER_URL}/598.png",
     "url": "{HTML_URL}/598.html",
     "author": " Cinossu",
-    "authorLink": "https://info.sonicretro.org/An_Ordinary_Sonic_ROM_Hack" 
+    "authorLink": "https://info.sonicretro.org/An_Ordinary_Sonic_ROM_Hack" ,
+    "special": [
+      "emulator",
+      "genesis"
+    ]
+  },
+  {
+    "id": 599,
+    "name": "Metal Gear Solid",
+    "cover": "{COVER_URL}/599.png",
+    "url": "{HTML_URL}/599.html",
+    "author": " Konami Computer Entertainment Japan",
+    "authorLink": "https://www.konami.com/" ,
+    "special": [
+      "emulator",
+      "ps1"
+    ]
+  },
+  {
+    "id": 600,
+    "name": "FNF Vs. Hypno's Lullaby v2",
+    "cover": "{COVER_URL}/600.png",
+    "url": "{HTML_URL}/600.html",
+    "author": "Hypno's Lullaby Team",
+    "authorLink": "https://gamebanana.com/wips/73522" ,
+    "special": [
+      "fnf mods"
+    ]
+  },
+  {
+    "id": 601,
+    "name": "FNF Vs. Sonic.EXE 3.0/4.0",
+    "cover": "{COVER_URL}/601.png",
+    "url": "{HTML_URL}/601.html",
+    "author": "FNF Vs. Sonic.EXE Team",
+    "authorLink": "https://gamebanana.com/mods/531361" ,
+    "special": [
+      "fnf mods"
+    ]
+  },
+  {
+    "id": 602,
+    "name": "FNF Vs. Sonic.EXE 3.0/4.0",
+    "cover": "{COVER_URL}/601.png",
+    "url": "{HTML_URL}/601.html",
+    "author": "FNF Vs. Sonic.EXE Team",
+    "authorLink": "https://gamebanana.com/mods/531361" ,
+    "special": [
+      "fnf mods"
+    ]
+  },
+  {
+    "id": 603,
+    "name": "Doom 2",
+    "cover": "{COVER_URL}/602.png",
+    "url": "{HTML_URL}/602.html",
+    "author": "id Software",
+    "authorLink": "https://www.idsoftware.com/" ,
+    "special": [
+      "emulator",
+      "ms-dos"
+    ]
   }
 ]
