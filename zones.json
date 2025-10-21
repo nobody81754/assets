@@ -5328,17 +5328,6 @@
   },
   {
     "id": 602,
-    "name": "FNF Vs. Sonic.EXE 3.0/4.0",
-    "cover": "{COVER_URL}/601.png",
-    "url": "{HTML_URL}/601.html",
-    "author": "FNF Vs. Sonic.EXE Team",
-    "authorLink": "https://gamebanana.com/mods/531361" ,
-    "special": [
-      "fnf mods"
-    ]
-  },
-  {
-    "id": 603,
     "name": "Doom 2",
     "cover": "{COVER_URL}/602.png",
     "url": "{HTML_URL}/602.html",
