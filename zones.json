@@ -5386,5 +5386,16 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 608,
+    "name": "Friday Night Funkin VS Impostor v4",
+    "cover": "{COVER_URL}/608.png",
+    "url": "{HTML_URL}/608.html",
+    "author": "Imposter v4 team",
+    "authorLink": "https://gamebanana.com/mods/55652" ,
+    "special": [
+      "fnf"
+    ]
   }
 ]
