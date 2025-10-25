@@ -4147,7 +4147,7 @@
     "id": 467,
     "name": "Baldi's Basics Plus",
     "cover": "{COVER_URL}/467.png",
-    "url": "{HTML_URL}/467-update.html",
+    "url": "{HTML_URL}/467-updatef.html",
     "author": "Basically Games",
     "authorLink": "https://basically-games.itch.io/baldis-basics-plus",
     "featured": true,
@@ -5358,7 +5358,7 @@
     "id": 605,
     "name": "Schoolboy Runaway",
     "cover": "{COVER_URL}/605.png",
-    "url": "{HTML_URL}/605.html",
+    "url": "{HTML_URL}/605-f.html",
     "author": "Linked Squad",
     "authorLink": "https://linked-squad.com/",
     "special": [
@@ -5369,7 +5369,7 @@
     "id": 606,
     "name": "Sonic.EXE (ORIGINAL)",
     "cover": "{COVER_URL}/606.png",
-    "url": "{HTML_URL}/606.html",
+    "url": "{HTML_URL}/606-f.html",
     "author": "MY5TCrimson",
     "authorLink": "https://gamejolt.com/games/sonic-exe-the-game/16239",
     "special": [
@@ -5380,7 +5380,7 @@
     "id": 607,
     "name": "Tattletail",
     "cover": "{COVER_URL}/607.png",
-    "url": "{HTML_URL}/607.html",
+    "url": "{HTML_URL}/607-f.html",
     "author": "Waygetter Electronics, Ported by Snubby.top",
     "authorLink": "https://store.steampowered.com/app/568090/Tattletail/",
     "special": [
