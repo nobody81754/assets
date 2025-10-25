@@ -4147,7 +4147,7 @@
     "id": 467,
     "name": "Baldi's Basics Plus",
     "cover": "{COVER_URL}/467.png",
-    "url": "{HTML_URL}/467.html",
+    "url": "{HTML_URL}/467-update.html",
     "author": "Basically Games",
     "authorLink": "https://basically-games.itch.io/baldis-basics-plus",
     "featured": true,
@@ -5216,7 +5216,7 @@
     "name": "Slime Rancher",
     "cover": "{COVER_URL}/591.png",
     "url": "{HTML_URL}/591-a.html",
-    "author": "Monomi Park",
+    "author": "Monomi Park, Ported by Snubby.top",
     "authorLink": "https://monomipark.com/",
     "special": [
       "port"
@@ -5288,8 +5288,7 @@
     "author": " Cinossu",
     "authorLink": "https://info.sonicretro.org/An_Ordinary_Sonic_ROM_Hack" ,
     "special": [
-      "emulator",
-      "genesis"
+      "emulator"
     ]
   },
   {
@@ -5300,8 +5299,7 @@
     "author": " Konami Computer Entertainment Japan",
     "authorLink": "https://www.konami.com/" ,
     "special": [
-      "emulator",
-      "ps1"
+      "emulator"
     ]
   },
   {
@@ -5312,7 +5310,7 @@
     "author": "Hypno's Lullaby Team",
     "authorLink": "https://gamebanana.com/wips/73522" ,
     "special": [
-      "fnf mods"
+      "fnf"
     ]
   },
   {
@@ -5323,7 +5321,7 @@
     "author": "FNF Vs. Sonic.EXE Team",
     "authorLink": "https://gamebanana.com/mods/531361" ,
     "special": [
-      "fnf mods"
+      "fnf"
     ]
   },
   {
@@ -5334,8 +5332,59 @@
     "author": "id Software",
     "authorLink": "https://www.idsoftware.com/" ,
     "special": [
-      "emulator",
-      "ms-dos"
+      "emulator"
+    ]
+  },
+  {
+    "id": 603,
+    "name": "Growden.io",
+    "cover": "{COVER_URL}/603.png",
+    "url": "{HTML_URL}/603.html",
+    "author": "growden.io",
+    "authorLink": "https://growden.io/"
+  },
+  {
+    "id": 604,
+    "name": "Minesweeper Plus",
+    "cover": "{COVER_URL}/604.png",
+    "url": "{HTML_URL}/604.html",
+    "author": "Jorel Simpson",
+    "authorLink": "https://jorel-simpson.itch.io/minesweeper-plus",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 605,
+    "name": "Schoolboy Runaway",
+    "cover": "{COVER_URL}/605.png",
+    "url": "{HTML_URL}/605.html",
+    "author": "Linked Squad",
+    "authorLink": "https://linked-squad.com/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 606,
+    "name": "Sonic.EXE (ORIGINAL)",
+    "cover": "{COVER_URL}/606.png",
+    "url": "{HTML_URL}/606.html",
+    "author": "MY5TCrimson",
+    "authorLink": "https://gamejolt.com/games/sonic-exe-the-game/16239",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 607,
+    "name": "Tattletail",
+    "cover": "{COVER_URL}/607.png",
+    "url": "{HTML_URL}/607.html",
+    "author": "Waygetter Electronics, Ported by Snubby.top",
+    "authorLink": "https://store.steampowered.com/app/568090/Tattletail/",
+    "special": [
+      "port"
     ]
   }
 ]
