@@ -5408,5 +5408,40 @@
     "special": [
       "fnf"
     ]
+  },
+  {
+    "id": 610,
+    "name": "Friday Night Funkin vs Carol V2",
+    "cover": "{COVER_URL}/610.png",
+    "url": "{HTML_URL}/610.html",
+    "author": "Carol V2 team",
+    "authorLink": "https://gamebanana.com/mods/42811" ,
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 611,
+    "name": "The Legend of Zelda Ocarina of Time",
+    "cover": "{COVER_URL}/611.png",
+    "url": "{HTML_URL}/611.html",
+    "author": "Nintendo",
+    "authorLink": "https://nintendo.com",
+    "special": [
+      "emulator",
+      "n64"
+    ]
+  },
+  {
+    "id": 612,
+    "name": "The Legend of Zelda Majora's Mask",
+    "cover": "{COVER_URL}/612.png",
+    "url": "{HTML_URL}/612.html",
+    "author": "Nintendo",
+    "authorLink": "https://nintendo.com",
+    "special": [
+      "emulator",
+      "n64"
+    ]
   }
 ]
