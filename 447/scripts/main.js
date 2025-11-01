@@ -468,7 +468,7 @@
                 return new Worker(URL.createObjectURL(blob), workerOpts)
             }
             const absUrl = new URL(url, baseUrl);
-            absUrl = "https://cdn.jsdelivr.net/gh/gn-math/assets@main/447/"+absUrl.replace(location.href.replace(location.href.split("/").pop(), ""), "")
+            absUrl = "https://cdn.jsdelivr.net/gh/gn-math/assets@main/447/"+((absUrl+"").replace(location.href.replace(location.href.split("/").pop(), ""), ""))
             const isCrossOrigin = true;
             if (isCrossOrigin) {
                 const response = await fetch(absUrl);
