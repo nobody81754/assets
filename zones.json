@@ -5443,5 +5443,35 @@
       "emulator",
       "n64"
     ]
+  },
+  {
+    "id": 613,
+    "name": "Friday Night Funkin' Drop and Roll, but Playable",
+    "cover": "{COVER_URL}/613.png",
+    "url": "{HTML_URL}/613.html",
+    "author": "Drop and roll team",
+    "authorLink": "https://gamebanana.com/mods/514851" ,
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 614,
+    "name": "Toy Rider",
+    "cover": "{COVER_URL}/614.png",
+    "url": "{HTML_URL}/614.html",
+    "author": "CrazyGames",
+    "authorLink": "https://www.crazygames.com/" 
+  },
+  {
+    "id": 615,
+    "name": "Friday Night Funkin Vs. Dave and Bambi v3",
+    "cover": "{COVER_URL}/615.png",
+    "url": "{HTML_URL}/615.html",
+    "author": "Dave and Bambi team",
+    "authorLink": "https://gamebanana.com/mods/43201" ,
+    "special": [
+      "fnf"
+    ]
   }
 ]
