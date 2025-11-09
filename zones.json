@@ -5473,5 +5473,16 @@
     "special": [
       "fnf"
     ]
+  },
+  {
+    "id": 616,
+    "name": "Friday Night Funkin’ Wednesday's Infidelity",
+    "cover": "{COVER_URL}/616.png",
+    "url": "{HTML_URL}/616.html",
+    "author": "Wednesday's Infidelity team",
+    "authorLink": "https://gamebanana.com/mods/343688" ,
+    "special": [
+      "fnf"
+    ]
   }
 ]
