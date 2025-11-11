@@ -5484,5 +5484,13 @@
     "special": [
       "fnf"
     ]
+  },
+  {
+    "id": 617,
+    "name": "Postal",
+    "cover": "{COVER_URL}/617.png",
+    "url": "{HTML_URL}/617.html",
+    "author": "Stinkalistic, Running With Scissors",
+    "authorLink": "https://runningwithscissors.com/" 
   }
 ]
