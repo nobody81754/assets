@@ -5492,5 +5492,16 @@
     "url": "{HTML_URL}/617-a.html",
     "author": "Stinkalistic, Running With Scissors",
     "authorLink": "https://runningwithscissors.com/" 
+  },
+  {
+    "id": 618,
+    "name": "FNF vs Bob v2.0 (Bob’s Onslaught)",
+    "cover": "{COVER_URL}/618.png",
+    "url": "{HTML_URL}/618.html",
+    "author": "bob v2.0 team",
+    "authorLink": "https://gamebanana.com/mods/621085" ,
+    "special": [
+      "fnf"
+    ]
   }
 ]
