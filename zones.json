@@ -5522,5 +5522,16 @@
     "url": "{HTML_URL}/620.html",
     "author": "Adventale",
     "authorLink": "https://adventale.net/play/three-goblets/" 
+  },
+  {
+    "id": 620,
+    "name": "Friday Night Funkin': Gumballs",
+    "cover": "{COVER_URL}/620.png",
+    "url": "{HTML_URL}/620.html",
+    "author": "Gumballs team",
+    "authorLink": "https://gamebanana.com/mods/614094" ,
+    "special": [
+      "fnf"
+    ]
   }
 ]
