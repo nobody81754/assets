@@ -3190,7 +3190,7 @@
     "id": 354,
     "name": "Adventure Capatalist",
     "cover": "{COVER_URL}/354.png",
-    "url": "{HTML_URL}/354.html",
+    "url": "{HTML_URL}/354-a.html",
     "author": "Hyper Hippo Games",
     "authorLink": "https://store.steampowered.com/app/346900/AdVenture_Capitalist/"
   },
@@ -5503,5 +5503,24 @@
     "special": [
       "fnf"
     ]
+  },
+  {
+    "id": 619,
+    "name": "Friday Night Funkin': Rev-Mixed",
+    "cover": "{COVER_URL}/619.png",
+    "url": "{HTML_URL}/619.html",
+    "author": "Rev-Mixed team",
+    "authorLink": "https://gamebanana.com/mods/621085" ,
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 620,
+    "name": "Three Goblets",
+    "cover": "{COVER_URL}/620.png",
+    "url": "{HTML_URL}/620.html",
+    "author": "Adventale",
+    "authorLink": "https://adventale.net/play/three-goblets/" 
   }
 ]
