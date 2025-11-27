@@ -5580,7 +5580,7 @@
     "id": 626,
     "name": "Doom 3",
     "cover": "{COVER_URL}/626.png",
-    "url": "{HTML_URL}/626.html",
+    "url": "{HTML_URL}/626-f.html",
     "author": "id Software, 98corbins",
     "authorLink": "https://www.idsoftware.com",
     "special": [
@@ -5599,7 +5599,7 @@
     "id": 628,
     "name": "Pizza Tower: Scoutdigo",
     "cover": "{COVER_URL}/628.png",
-    "url": "{HTML_URL}/628.html",
+    "url": "{HTML_URL}/628-f.html",
     "author": "only1indigo, burnedpopcorn",
     "authorLink": "https://gamebanana.com/wips/75923",
     "special": [
