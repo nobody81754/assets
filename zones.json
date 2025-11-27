@@ -5559,5 +5559,21 @@
       "port"
     ],
     "featured": true
+  },
+  {
+    "id": 624,
+    "name": "Happy Wheels",
+    "cover": "{COVER_URL}/624.png",
+    "url": "{HTML_URL}/624.html",
+    "author": "Jim Bonacci",
+    "authorLink": "https://totaljerkface.com/"
+  },
+  {
+    "id": 625,
+    "name": "Get Yoked",
+    "cover": "{COVER_URL}/625.png",
+    "url": "{HTML_URL}/625.html",
+    "author": "gregs games",
+    "authorLink": "https://gregs-games.itch.io/get-yoked-2"
   }
 ]
