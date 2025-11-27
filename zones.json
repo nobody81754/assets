@@ -5601,6 +5601,9 @@
     "cover": "{COVER_URL}/628.png",
     "url": "{HTML_URL}/628.html",
     "author": "only1indigo, burnedpopcorn",
-    "authorLink": "https://gamebanana.com/wips/75923"
+    "authorLink": "https://gamebanana.com/wips/75923",
+    "special": [
+      "port"
+    ]
   }
 ]
