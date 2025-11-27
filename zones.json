@@ -5524,7 +5524,7 @@
     "authorLink": "https://adventale.net/play/three-goblets/" 
   },
   {
-    "id": 620,
+    "id": 621,
     "name": "Friday Night Funkin': Gumballs",
     "cover": "{COVER_URL}/621.png",
     "url": "{HTML_URL}/621.html",
@@ -5532,6 +5532,28 @@
     "authorLink": "https://gamebanana.com/mods/614094" ,
     "special": [
       "fnf"
+    ]
+  },
+  {
+    "id": 622,
+    "name": "Oneshot (LEGACY)",
+    "cover": "{COVER_URL}/622.png",
+    "url": "{HTML_URL}/622.html",
+    "author": "Future Cat LLC, ARandomPerson",
+    "authorLink": "https://store.steampowered.com/app/420530/OneShot/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 623,
+    "name": "Celeste",
+    "cover": "{COVER_URL}/623.png",
+    "url": "{HTML_URL}/623.html",
+    "author": "MaddyMakesGames, Mercury Workshop",
+    "authorLink": "https://store.steampowered.com/app/504230/Celeste/",
+    "special": [
+      "port"
     ]
   }
 ]
