@@ -17,7 +17,7 @@
     "id": 1,
     "name": "OvO",
     "cover": "{COVER_URL}/1.png",
-    "url": "{HTML_URL}/1.html",
+    "url": "{HTML_URL}/1-a.html",
     "author": "Dedra Games",
     "authorLink": "https://dedragames.com"
   },
@@ -1608,7 +1608,6 @@
     "url": "{HTML_URL}/185.html",
     "author": "Scott Cawthon",
     "authorLink": "https://scottgames.com",
-    "featured": true,
     "special": [
       "port"
     ]
@@ -1658,7 +1657,6 @@
     "url": "{HTML_URL}/191.html",
     "author": "Scott Cawthon",
     "authorLink": "https://scottgames.com",
-    "featured": true,
     "special": [
       "port"
     ]
@@ -2341,6 +2339,7 @@
     "url": "{HTML_URL}/259.html",
     "author": "sbn3",
     "authorLink": "https://sbn3.com",
+    "featured": true,
     "special": [
       "port"
     ]
@@ -2352,6 +2351,7 @@
     "url": "{HTML_URL}/260.html",
     "author": "DaniDev",
     "authorLink": "https://danidev.itch.io/rerun",
+    "featured": true,
     "special": [
       "port"
     ]
@@ -2411,6 +2411,7 @@
     "url": "{HTML_URL}/266-a.html",
     "author": "Luke Doukakis",
     "authorLink": "https://store.steampowered.com/app/1482700/Speed_Stars/",
+    "featured": true,
     "special": [
       "port"
     ]
@@ -2967,7 +2968,8 @@
     "cover": "{COVER_URL}/331.png",
     "url": "{HTML_URL}/331.html",
     "author": "No Pressure Studios",
-    "authorLink": "https://www.nopressurestudios.com"
+    "authorLink": "https://www.nopressurestudios.com",
+    "featured": true
   },
   {
     "id": 332,
@@ -4813,7 +4815,6 @@
     "url": "{HTML_URL}/543-a.html",
     "author": "DaniDev",
     "authorLink": "https://danidev.itch.io/",
-    "featured": true,
     "special": [
       "port"
     ]
@@ -5219,8 +5220,7 @@
     "authorLink": "https://monomipark.com/",
     "special": [
       "port"
-    ],
-    "featured": true
+    ]
   },
   {
     "id": 592,
@@ -5363,8 +5363,7 @@
     "authorLink": "https://linked-squad.com/",
     "special": [
       "port"
-    ],
-    "featured": true
+    ]
   },
   {
     "id": 606,
@@ -5386,8 +5385,7 @@
     "authorLink": "https://store.steampowered.com/app/568090/Tattletail/",
     "special": [
       "port"
-    ],
-    "featured": true
+    ]
   },
   {
     "id": 608,
