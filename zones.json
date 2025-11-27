@@ -5575,5 +5575,13 @@
     "url": "{HTML_URL}/625.html",
     "author": "gregs games",
     "authorLink": "https://gregs-games.itch.io/get-yoked-2"
+  },
+  {
+    "id": 626,
+    "name": "Doom 3",
+    "cover": "{COVER_URL}/626.png",
+    "url": "{HTML_URL}/626.html",
+    "author": "id Software",
+    "authorLink": "https://www.idsoftware.com"
   }
 ]
