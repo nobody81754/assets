@@ -5594,5 +5594,13 @@
     "url": "{HTML_URL}/627.html",
     "author": "WeLoPlay",
     "authorLink": "https://www.weloplay.com/"
+  },
+  {
+    "id": 628,
+    "name": "Pizza Tower: Scoutdigo",
+    "cover": "{COVER_URL}/628.png",
+    "url": "{HTML_URL}/628.html",
+    "author": "only1indigo, burnedpopcorn",
+    "authorLink": "https://gamebanana.com/wips/75923"
   }
 ]
