@@ -5629,5 +5629,35 @@
     "url": "{HTML_URL}/631-a.html",
     "author": " Segawa",
     "authorLink": "https://vgperson.com/games/endroll.htm"
+  },
+  {
+    "id": 632,
+    "name": "Cave Story",
+    "cover": "{COVER_URL}/632.png",
+    "url": "{HTML_URL}/632.html",
+    "author": " Daisuke 'Pixel' Amaya",
+    "authorLink": "https://www.cavestory.org/"
+  },
+  {
+    "id": 633,
+    "name": "Friday Night Funkin': VS. Impostor: Alternated",
+    "cover": "{COVER_URL}/633.png",
+    "url": "{HTML_URL}/633.html",
+    "author": "Alternated team",
+    "authorLink": "https://gamebanana.com/mods/598215" ,
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 634,
+    "name": "Friday Night Funkin': Chaos Nightmare - Sonic Vs. Fleetway",
+    "cover": "{COVER_URL}/634.png",
+    "url": "{HTML_URL}/634.html",
+    "author": "Fleetway team",
+    "authorLink": "https://gamebanana.com/mods/359046" ,
+    "special": [
+      "fnf"
+    ]
   }
 ]
