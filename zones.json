@@ -5818,5 +5818,27 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 650,
+    "name": "Milk Inside a Bag of Milk Inside a Bag of Milk",
+    "cover": "{COVER_URL}/650.png",
+    "url": "{HTML_URL}/650.html",
+    "author": "Nikita Kryukov",
+    "authorLink": "https://nikita-kryukov.itch.io/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 651,
+    "name": "Milk Outside A Bag Of Milk Outside A Bag Of Milk",
+    "cover": "{COVER_URL}/651.png",
+    "url": "{HTML_URL}/651.html",
+    "author": "Nikita Kryukov",
+    "authorLink": "https://nikita-kryukov.itch.io/",
+    "special": [
+      "port"
+    ]
   }
 ]
