@@ -102,14 +102,6 @@
     "authorLink": "https://madbox.io"
   },
   {
-    "id": 12,
-    "name": "Subway Surfers: San Francisco",
-    "cover": "{COVER_URL}/12.png",
-    "url": "{HTML_URL}/12.html",
-    "author": "SYBO",
-    "authorLink": "https://sybogames.com"
-  },
-  {
     "id": 13,
     "name": "Attack Hole",
     "cover": "{COVER_URL}/13.png",
@@ -282,14 +274,6 @@
     "name": "Retro Bowl College",
     "cover": "{COVER_URL}/34.png",
     "url": "{HTML_URL}/34.html",
-    "author": "",
-    "authorLink": ""
-  },
-  {
-    "id": 35,
-    "name": "Drive Mad",
-    "cover": "{COVER_URL}/35.png",
-    "url": "{HTML_URL}/35.html",
     "author": "",
     "authorLink": ""
   },
@@ -479,14 +463,6 @@
     "name": "Vex X3M 2",
     "cover": "{COVER_URL}/56.png",
     "url": "{HTML_URL}/56.html",
-    "author": "",
-    "authorLink": ""
-  },
-  {
-    "id": 57,
-    "name": "Monkey Mart",
-    "cover": "{COVER_URL}/57.png",
-    "url": "{HTML_URL}/57.html",
     "author": "",
     "authorLink": ""
   },
@@ -1146,126 +1122,6 @@
     "url": "{HTML_URL}/130.html",
     "author": "",
     "authorLink": ""
-  },
-  {
-    "id": 131,
-    "name": "Subway Surfers: Barcelona",
-    "cover": "{COVER_URL}/131.png",
-    "url": "{HTML_URL}/131.html",
-    "author": "SYBO",
-    "authorLink": "https://sybogames.com"
-  },
-  {
-    "id": 132,
-    "name": "Subway Surfers: Beijing",
-    "cover": "{COVER_URL}/132.png",
-    "url": "{HTML_URL}/132.html",
-    "author": "SYBO",
-    "authorLink": "https://sybogames.com"
-  },
-  {
-    "id": 133,
-    "name": "Subway Surfers: Berlin",
-    "cover": "{COVER_URL}/133.png",
-    "url": "{HTML_URL}/133.html",
-    "author": "SYBO",
-    "authorLink": "https://sybogames.com"
-  },
-  {
-    "id": 134,
-    "name": "Subway Surfers: Buenos Aires",
-    "cover": "{COVER_URL}/134.png",
-    "url": "{HTML_URL}/134.html",
-    "author": "SYBO",
-    "authorLink": "https://sybogames.com"
-  },
-  {
-    "id": 135,
-    "name": "Subway Surfers: Havana",
-    "cover": "{COVER_URL}/135.png",
-    "url": "{HTML_URL}/135.html",
-    "author": "SYBO",
-    "authorLink": "https://sybogames.com"
-  },
-  {
-    "id": 136,
-    "name": "Subway Surfers: Houston",
-    "cover": "{COVER_URL}/136.png",
-    "url": "{HTML_URL}/136.html",
-    "author": "SYBO",
-    "authorLink": "https://sybogames.com"
-  },
-  {
-    "id": 137,
-    "name": "Subway Surfers: Iceland",
-    "cover": "{COVER_URL}/137.png",
-    "url": "{HTML_URL}/137.html",
-    "author": "SYBO",
-    "authorLink": "https://sybogames.com"
-  },
-  {
-    "id": 138,
-    "name": "Subway Surfers: London",
-    "cover": "{COVER_URL}/138.png",
-    "url": "{HTML_URL}/138.html",
-    "author": "SYBO",
-    "authorLink": "https://sybogames.com"
-  },
-  {
-    "id": 139,
-    "name": "Subway Surfers: Mexico",
-    "cover": "{COVER_URL}/139.png",
-    "url": "{HTML_URL}/139.html",
-    "author": "SYBO",
-    "authorLink": "https://sybogames.com"
-  },
-  {
-    "id": 140,
-    "name": "Subway Surfers: Miami",
-    "cover": "{COVER_URL}/140.png",
-    "url": "{HTML_URL}/140.html",
-    "author": "SYBO",
-    "authorLink": "https://sybogames.com"
-  },
-  {
-    "id": 141,
-    "name": "Subway Surfers: Monaco",
-    "cover": "{COVER_URL}/141.png",
-    "url": "{HTML_URL}/141.html",
-    "author": "SYBO",
-    "authorLink": "https://sybogames.com"
-  },
-  {
-    "id": 142,
-    "name": "Subway Surfers: New Orleans",
-    "cover": "{COVER_URL}/142.png",
-    "url": "{HTML_URL}/142.html",
-    "author": "SYBO",
-    "authorLink": "https://sybogames.com"
-  },
-  {
-    "id": 143,
-    "name": "Subway Surfers: St. Petersburg",
-    "cover": "{COVER_URL}/143.png",
-    "url": "{HTML_URL}/143.html",
-    "author": "SYBO",
-    "authorLink": "https://sybogames.com"
-  },
-  {
-    "id": 144,
-    "name": "Subway Surfers: Winter Holiday",
-    "cover": "{COVER_URL}/144.png",
-    "url": "{HTML_URL}/144.html",
-    "author": "SYBO",
-    "authorLink": "https://sybogames.com"
-  },
-  {
-    "id": 145,
-    "name": "Subway Surfers: Zurich",
-    "cover": "{COVER_URL}/145.png",
-    "url": "{HTML_URL}/145.html",
-    "author": "SYBO",
-    "authorLink": "https://sybogames.com"
   },
   {
     "id": 146,
