@@ -5698,18 +5698,6 @@
     ]
   },
   {
-    "id": 652,
-    "name": "Grand Theft Auto: Vice City",
-    "cover": "{COVER_URL}/652.png",
-    "url": "{HTML_URL}/652.html",
-    "author": "Rockstar Games",
-    "authorLink": "https://www.rockstargames.com/",
-    "featured": true,
-    "special": [
-      "port"
-    ]
-  },
-  {
     "id": 653,
     "name": "1 Date Danger",
     "cover": "{COVER_URL}/653.png",
