@@ -5736,5 +5736,35 @@
     "url": "{HTML_URL}/657.html",
     "author": "vs undertale team",
     "authorLink": "https://gamebanana.com/mods/342415"
+  },
+  {
+    "id": 658,
+    "name": "Midnight Shift",
+    "cover": "{COVER_URL}/658.png",
+    "url": "{HTML_URL}/658.html",
+    "author": "Phantom GD",
+    "authorLink": "https://phantom-gd.itch.io/midnight-shift",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 659,
+    "name": "Orange Roulette",
+    "cover": "{COVER_URL}/659.png",
+    "url": "{HTML_URL}/659.html",
+    "author": "Matzerath",
+    "authorLink": "https://www.newgrounds.com/portal/view/596354",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 660,
+    "name": "Please Dont Touch Anything",
+    "cover": "{COVER_URL}/660.png",
+    "url": "{HTML_URL}/660.html",
+    "author": "Four Quarters",
+    "authorLink": "https://store.steampowered.com/app/354240/Please_Dont_Touch_Anything/"
   }
 ]
