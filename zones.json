@@ -2826,14 +2826,6 @@
     "authorLink": "https://www.nopressurestudios.com"
   },
   {
-    "id": 332,
-    "name": "Going Balls",
-    "cover": "{COVER_URL}/332.png",
-    "url": "{HTML_URL}/332.html",
-    "author": "Supersonic Studios LTD",
-    "authorLink": "https://play.google.com/store/apps/details?id=com.pronetis.ironball2"
-  },
-  {
     "id": 333,
     "name": "Fancy Pants Adventure",
     "cover": "{COVER_URL}/333.png",
@@ -3501,14 +3493,6 @@
     "name": "Telekinesis",
     "cover": "{COVER_URL}/411.png",
     "url": "{HTML_URL}/411.html",
-    "author": "Yandex",
-    "authorLink": "https://yandex.com/games"
-  },
-  {
-    "id": 412,
-    "name": "Triple Match 3D",
-    "cover": "{COVER_URL}/412.png",
-    "url": "{HTML_URL}/412.html",
     "author": "Yandex",
     "authorLink": "https://yandex.com/games"
   },
@@ -5766,5 +5750,53 @@
     "url": "{HTML_URL}/660.html",
     "author": "Four Quarters",
     "authorLink": "https://store.steampowered.com/app/354240/Please_Dont_Touch_Anything/"
+  },
+  {
+    "id": 661,
+    "name": "Royal Towers: Medieval TD",
+    "cover": "{COVER_URL}/661.png",
+    "url": "{HTML_URL}/661.html",
+    "author": "Superplus Games",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.superplusgames.tower"
+  },
+  {
+    "id": 662,
+    "name": "Going Balls",
+    "cover": "{COVER_URL}/662.png",
+    "url": "{HTML_URL}/662.html",
+    "author": "Supersonic Studios LTD",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.pronetis.ironball2"
+  },
+  {
+    "id": 663,
+    "name": "3D Bolt Master",
+    "cover": "{COVER_URL}/663.png",
+    "url": "{HTML_URL}/663.html",
+    "author": "Joymaster Puzzle Game Studio",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.screw3d.match.nuts.bolts.pin.jam.away.puzzle"
+  },
+  {
+    "id": 664,
+    "name": "Tall.io",
+    "cover": "{COVER_URL}/664.png",
+    "url": "{HTML_URL}/664.html",
+    "author": "Playgama",
+    "authorLink": "https://playgama.com/"
+  },
+  {
+    "id": 665,
+    "name": "Match Triple 3D",
+    "cover": "{COVER_URL}/665.png",
+    "url": "{HTML_URL}/665.html",
+    "author": "LIHUHU PTE. LTD.",
+    "authorLink": "https://play.google.com/store/apps/details?id=and.lihuhu.machingtriple&hl=en_US"
+  },
+  {
+    "id": 666,
+    "name": "Stick War: Legacy",
+    "cover": "{COVER_URL}/666.png",
+    "url": "{HTML_URL}/666.html",
+    "author": "Max Games Studios",
+    "authorLink": "https://play.google.com/store/apps/details/Stick+War:+Legacy?id=com.maxgames.stickwarlegacy&hl=en_ZA"
   }
 ]
