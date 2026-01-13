@@ -5940,5 +5940,60 @@
     "special": [
       "flash"
     ]
+  },
+  {
+    "id": 680,
+    "name": "Kirby Super Star Ultra",
+    "cover": "{COVER_URL}/680.png",
+    "url": "{HTML_URL}/680.html",
+    "author": "Nintendo",
+    "authorLink": "https://nintendo.com",
+    "special": [
+      "emulator"
+    ]
+  },
+  {
+    "id": 681,
+    "name": "Cooking Mama",
+    "cover": "{COVER_URL}/681.png",
+    "url": "{HTML_URL}/681.html",
+    "author": "Office Create",
+    "authorLink": "https://www.cookingmama.com/",
+    "special": [
+      "emulator"
+    ]
+  },
+  {
+    "id": 682,
+    "name": "Cooking Mama 2",
+    "cover": "{COVER_URL}/682.png",
+    "url": "{HTML_URL}/682.html",
+    "author": "Office Create",
+    "authorLink": "https://www.cookingmama.com/",
+    "special": [
+      "emulator"
+    ]
+  },
+  {
+    "id": 683,
+    "name": "Cooking Mama 3",
+    "cover": "{COVER_URL}/683.png",
+    "url": "{HTML_URL}/683.html",
+    "author": "Office Create",
+    "authorLink": "https://www.cookingmama.com/",
+    "special": [
+      "emulator"
+    ]
+  },
+  {
+    "id": 684,
+    "name": "Kirby Squeak Squad",
+    "cover": "{COVER_URL}/684.png",
+    "url": "{HTML_URL}/684.html",
+    "author": "Nintendo",
+    "authorLink": "https://nintendo.com",
+    "special": [
+      "emulator"
+    ]
   }
 ]
