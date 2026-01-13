@@ -6017,5 +6017,38 @@
     "special": [
       "emulator"
     ]
+  },
+  {
+    "id": 687,
+    "name": "Pico's School",
+    "cover": "{COVER_URL}/687.png",
+    "url": "{HTML_URL}/687.html",
+    "author": "Tom Fulp",
+    "authorLink": "https://www.newgrounds.com/portal/view/310349",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 688,
+    "name": "Peggle",
+    "cover": "{COVER_URL}/688.png",
+    "url": "{HTML_URL}/688.html",
+    "author": "PopCap Games",
+    "authorLink": "https://store.steampowered.com/app/3480/Peggle_Deluxe/",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 689,
+    "name": "Meatboy",
+    "cover": "{COVER_URL}/689.png",
+    "url": "{HTML_URL}/689.html",
+    "author": "Jonathan McEntee",
+    "authorLink": "https://www.newgrounds.com/portal/view/463241",
+    "special": [
+      "flash"
+    ]
   }
 ]
