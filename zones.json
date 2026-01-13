@@ -5797,6 +5797,7 @@
     "cover": "{COVER_URL}/666.png",
     "url": "{HTML_URL}/666.html",
     "author": "Max Games Studios",
+    "featured": true,
     "authorLink": "https://play.google.com/store/apps/details/Stick+War:+Legacy?id=com.maxgames.stickwarlegacy&hl=en_ZA"
   },
   {
@@ -5828,6 +5829,7 @@
     "url": "{HTML_URL}/669.html",
     "author": "Re-Logic, Mercury Workshop",
     "authorLink": "https://terraria.org/",
+    "featured": true,
     "special": [
       "port"
     ]
