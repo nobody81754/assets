@@ -5833,5 +5833,24 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 670,
+    "name": "Raldi's Crackhouse",
+    "cover": "{COVER_URL}/670.png",
+    "url": "{HTML_URL}/670.html",
+    "author": "RCHTeam, Grayson",
+    "authorLink": "https://gamejolt.com/games/raldicrackhouse/769103",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 671,
+    "name": "We Become What We Behold",
+    "cover": "{COVER_URL}/671.png",
+    "url": "{HTML_URL}/671.html",
+    "author": "Ncase",
+    "authorLink": "https://ncase.itch.io/wbwwb"
   }
 ]
