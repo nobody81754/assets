@@ -5995,5 +5995,27 @@
     "special": [
       "emulator"
     ]
+  },
+  {
+    "id": 685,
+    "name": "FIFA 11",
+    "cover": "{COVER_URL}/685.png",
+    "url": "{HTML_URL}/685.html",
+    "author": "EA Sports",
+    "authorLink": "https://ea.com",
+    "special": [
+      "emulator"
+    ]
+  },
+  {
+    "id": 686,
+    "name": "FIFA 10",
+    "cover": "{COVER_URL}/686.png",
+    "url": "{HTML_URL}/686.html",
+    "author": "EA Sports",
+    "authorLink": "https://ea.com",
+    "special": [
+      "emulator"
+    ]
   }
 ]
