@@ -6094,5 +6094,17 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 694,
+    "name": "Pokemon Firered",
+    "cover": "{COVER_URL}/694.png",
+    "url": "{HTML_URL}/694.html",
+    "author": "Nintendo",
+    "authorLink": "https://www.nintendo.com/",
+    "special": [
+      "emulator",
+      "gba"
+    ]
   }
 ]
