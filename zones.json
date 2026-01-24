@@ -552,40 +552,40 @@
     "name": "Big Tower Tiny Square",
     "cover": "{COVER_URL}/67.png",
     "url": "{HTML_URL}/67.html",
-    "author": "",
-    "authorLink": ""
+    "author": "EvilObjective",
+    "authorLink": "https://evilobjective.itch.io"
   },
   {
     "id": 68,
     "name": "Big NEON Tower Tiny Square",
     "cover": "{COVER_URL}/68.png",
     "url": "{HTML_URL}/68.html",
-    "author": "",
-    "authorLink": ""
+    "author": "EvilObjective",
+    "authorLink": "https://evilobjective.itch.io"
   },
   {
     "id": 69,
     "name": "Big ICE Tower Tiny Square",
     "cover": "{COVER_URL}/69.png",
     "url": "{HTML_URL}/69.html",
-    "author": "",
-    "authorLink": ""
+    "author": "EvilObjective",
+    "authorLink": "https://evilobjective.itch.io"
   },
   {
     "id": 70,
     "name": "BitLife",
     "cover": "{COVER_URL}/70.png",
     "url": "{HTML_URL}/70.html",
-    "author": "",
-    "authorLink": ""
+    "author": "Candywriter",
+    "authorLink": "https://candywriter.com"
   },
   {
     "id": 71,
     "name": "Bloons TD",
     "cover": "{COVER_URL}/71.png",
     "url": "{HTML_URL}/71.html",
-    "author": "",
-    "authorLink": "",
+    "author": "Ninja Kiwi",
+    "authorLink": "https://ninjakiwi.com",
     "special": [
       "flash"
     ]
@@ -595,8 +595,8 @@
     "name": "Bloons TD 2",
     "cover": "{COVER_URL}/72.png",
     "url": "{HTML_URL}/72.html",
-    "author": "",
-    "authorLink": "",
+    "author": "Ninja Kiwi",
+    "authorLink": "https://ninjakiwi.com",
     "special": [
       "flash"
     ]
@@ -606,8 +606,8 @@
     "name": "Bloons TD 3",
     "cover": "{COVER_URL}/73.png",
     "url": "{HTML_URL}/73.html",
-    "author": "",
-    "authorLink": "",
+    "author": "Ninja Kiwi",
+    "authorLink": "https://ninjakiwi.com",
     "special": [
       "flash"
     ]
@@ -617,8 +617,8 @@
     "name": "Bloons TD 4",
     "cover": "{COVER_URL}/74.png",
     "url": "{HTML_URL}/74.html",
-    "author": "",
-    "authorLink": "",
+    "author": "Ninja Kiwi",
+    "authorLink": "https://ninjakiwi.com",
     "special": [
       "flash"
     ]
@@ -628,8 +628,8 @@
     "name": "Bloons TD 5",
     "cover": "{COVER_URL}/75.png",
     "url": "{HTML_URL}/75.html",
-    "author": "",
-    "authorLink": "",
+    "author": "Ninja Kiwi",
+    "authorLink": "https://ninjakiwi.com",
     "special": [
       "flash"
     ]
@@ -639,24 +639,24 @@
     "name": "Bob The Robber 2",
     "cover": "{COVER_URL}/76.png",
     "url": "{HTML_URL}/76.html",
-    "author": "",
-    "authorLink": ""
+    "author": "Meow Beast",
+    "authorLink": "https://www.newgrounds.com/portal/view/585767"
   },
   {
     "id": 77,
     "name": "Boxing Random",
     "cover": "{COVER_URL}/77.png",
     "url": "{HTML_URL}/77.html",
-    "author": "",
-    "authorLink": ""
+    "author": "RHM Interactive",
+    "authorLink": "https://www.twoplayergames.org"
   },
   {
     "id": 78,
     "name": "Burrito Bison",
     "cover": "{COVER_URL}/78.png",
     "url": "{HTML_URL}/78.html",
-    "author": "",
-    "authorLink": "",
+    "author": "Juicy Beast",
+    "authorLink": "https://juicybeast.com",
     "special": [
       "flash"
     ]
@@ -666,8 +666,8 @@
     "name": "Cannon Basketball",
     "cover": "{COVER_URL}/79.png",
     "url": "{HTML_URL}/79.html",
-    "author": "",
-    "authorLink": "",
+    "author": "Oleh \"qzix13\" Kuzyk",
+    "authorLink": "https://ua.linkedin.com/in/olehkuzyk",
     "special": [
       "flash"
     ]
@@ -677,8 +677,8 @@
     "name": "Cannon Basketball 2",
     "cover": "{COVER_URL}/80.png",
     "url": "{HTML_URL}/80.html",
-    "author": "",
-    "authorLink": "",
+    "author": "Oleh \"qzix13\" Kuzyk",
+    "authorLink": "https://ua.linkedin.com/in/olehkuzyk",
     "special": [
       "flash"
     ]
@@ -688,32 +688,32 @@
     "name": "Cluster Rush",
     "cover": "{COVER_URL}/81.png",
     "url": "{HTML_URL}/81.html",
-    "author": "",
-    "authorLink": ""
+    "author": "Landfall",
+    "authorLink": "https://landfall.se"
   },
   {
     "id": 82,
     "name": "Cookie Clicker",
     "cover": "{COVER_URL}/82.png",
     "url": "{HTML_URL}/82-aa.html",
-    "author": "",
-    "authorLink": ""
+    "author": "Orteil",
+    "authorLink": "https://orteil.dashnet.org"
   },
   {
     "id": 83,
     "name": "Coreball",
     "cover": "{COVER_URL}/83.png",
     "url": "{HTML_URL}/83.html",
-    "author": "",
-    "authorLink": ""
+    "author": "Ben Vinegar",
+    "authorLink": "https://benv.ca/"
   },
   {
     "id": 84,
     "name": "Cubefield",
     "cover": "{COVER_URL}/84.png",
     "url": "{HTML_URL}/84.html",
-    "author": "",
-    "authorLink": "",
+    "author": "Max Abernethy",
+    "authorLink": "https://max-abernethy.newgrounds.com/",
     "special": [
       "flash"
     ]
@@ -723,24 +723,24 @@
     "name": "Cut the Rope",
     "cover": "{COVER_URL}/85.png",
     "url": "{HTML_URL}/85.html",
-    "author": "",
-    "authorLink": ""
+    "author": "ZeptoLab",
+    "authorLink": "https://www.zeptolab.com"
   },
   {
     "id": 86,
     "name": "Draw Climber",
     "cover": "{COVER_URL}/86.png",
     "url": "{HTML_URL}/86.html",
-    "author": "",
-    "authorLink": ""
+    "author": "VOODOO",
+    "authorLink": "https://voodoo.io"
   },
   {
     "id": 87,
     "name": "Emulator.JS",
     "cover": "{COVER_URL}/87.png",
     "url": "{HTML_URL}/87.html",
-    "author": "",
-    "authorLink": "",
+    "author": "Ethan O'Brien",
+    "authorLink": "https://emulatorjs.org/",
     "special": [
       "emulator"
     ]
@@ -750,8 +750,8 @@
     "name": "Fireboy and Watergirl 2",
     "cover": "{COVER_URL}/88.png",
     "url": "{HTML_URL}/88.html",
-    "author": "",
-    "authorLink": "",
+    "author": "Oslo Albet",
+    "authorLink": "https://www.osloalbet.com",
     "special": [
       "flash"
     ]
@@ -761,8 +761,8 @@
     "name": "Fireboy and Watergirl 3",
     "cover": "{COVER_URL}/89.png",
     "url": "{HTML_URL}/89.html",
-    "author": "",
-    "authorLink": "",
+    "author": "Oslo Albet",
+    "authorLink": "https://www.osloalbet.com",
     "special": [
       "flash"
     ]
@@ -772,16 +772,16 @@
     "name": "Granny",
     "cover": "{COVER_URL}/90.png",
     "url": "{HTML_URL}/90.html",
-    "author": "",
-    "authorLink": ""
+    "author": "DVloper",
+    "authorLink": "https://grannyhorror.com"
   },
   {
     "id": 91,
     "name": "Gunspin",
     "cover": "{COVER_URL}/91.png",
     "url": "{HTML_URL}/91.html",
-    "author": "",
-    "authorLink": "",
+    "author": "minijuegos.com",
+    "authorLink": "https://www.minijuegos.com/",
     "special": [
       "flash"
     ]
@@ -791,32 +791,32 @@
     "name": "Highway Racer 2",
     "cover": "{COVER_URL}/92.png",
     "url": "{HTML_URL}/92.html",
-    "author": "",
-    "authorLink": ""
+    "author": "Bone Cracker Games",
+    "authorLink": "https://www.bonecrackergames.com/"
   },
   {
     "id": 93,
     "name": "Johnny Trigger",
     "cover": "{COVER_URL}/93.png",
     "url": "{HTML_URL}/93.html",
-    "author": "",
-    "authorLink": ""
+    "author": "SayGames",
+    "authorLink": "https://say.games"
   },
   {
     "id": 94,
     "name": "Journey Downhill",
     "cover": "{COVER_URL}/94.png",
     "url": "{HTML_URL}/94.html",
-    "author": "",
-    "authorLink": ""
+    "author": "Megagon Industries",
+    "authorLink": "https://megagonindustries.com/"
   },
   {
     "id": 95,
     "name": "Line Rider",
     "cover": "{COVER_URL}/95.png",
     "url": "{HTML_URL}/95.html",
-    "author": "",
-    "authorLink": "",
+    "author": "Boštjan Čadež",
+    "authorLink": "https://fsk.deviantart.com",
     "special": [
       "flash"
     ]
@@ -826,40 +826,40 @@
     "name": "Moto X3M",
     "cover": "{COVER_URL}/96.png",
     "url": "{HTML_URL}/96.html",
-    "author": "",
-    "authorLink": ""
+    "author": "MadPuffers",
+    "authorLink": "https://www.madpuffers.com"
   },
   {
     "id": 97,
     "name": "Moto X3M 2",
     "cover": "{COVER_URL}/97.png",
     "url": "{HTML_URL}/97.html",
-    "author": "",
-    "authorLink": ""
+    "author": "MadPuffers",
+    "authorLink": "https://www.madpuffers.com"
   },
   {
     "id": 98,
     "name": "Moto X3M 3",
     "cover": "{COVER_URL}/98.png",
     "url": "{HTML_URL}/98.html",
-    "author": "",
-    "authorLink": ""
+    "author": "MadPuffers",
+    "authorLink": "https://www.madpuffers.com"
   },
   {
     "id": 99,
     "name": "Moto X3M Spooky",
     "cover": "{COVER_URL}/99.png",
     "url": "{HTML_URL}/99.html",
-    "author": "",
-    "authorLink": ""
+    "author": "MadPuffers",
+    "authorLink": "https://www.madpuffers.com"
   },
   {
     "id": 100,
     "name": "Moto X3M Winter",
     "cover": "{COVER_URL}/100.png",
     "url": "{HTML_URL}/100.html",
-    "author": "",
-    "authorLink": ""
+    "author": "MadPuffers",
+    "authorLink": "https://www.madpuffers.com"
   },
   {
     "id": 101,
