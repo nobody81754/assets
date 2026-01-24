@@ -1645,7 +1645,7 @@
     "id": 205,
     "name": "Buckshot Roulette",
     "cover": "{COVER_URL}/205.png",
-    "url": "{HTML_URL}/205.html",
+    "url": "{HTML_URL}/205-f.html",
     "author": "Mike Klubnika",
     "authorLink": "https://mikeklubnika.itch.io/buckshot-roulette",
     "featured": true,
@@ -3164,7 +3164,7 @@
     "id": 370,
     "name": "Smash Karts",
     "cover": "{COVER_URL}/370.png",
-    "url": "{HTML_URL}/370.html",
+    "url": "{HTML_URL}/370-f.html",
     "author": "Tall Team",
     "authorLink": "https://tall.team/"
   },
@@ -4480,7 +4480,7 @@
     "id": 523,
     "name": "Touhou Mother",
     "cover": "{COVER_URL}/523.png",
-    "url": "{HTML_URL}/523.html",
+    "url": "{HTML_URL}/523-f.html",
     "author": "vgperson",
     "authorLink": "https://vgperson.com/games/touhoumother.htm",
     "special": [
@@ -5685,7 +5685,7 @@
     "id": 653,
     "name": "1 Date Danger",
     "cover": "{COVER_URL}/653.png",
-    "url": "{HTML_URL}/653.html",
+    "url": "{HTML_URL}/653-f.html",
     "author": "Knives",
     "authorLink": "https://mawedgone.itch.io/1-date-danger"
   },
