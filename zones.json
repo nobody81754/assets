@@ -6106,5 +6106,16 @@
       "emulator",
       "gba"
     ]
+  },
+  {
+    "id": 695,
+    "name": "Duck Life 8",
+    "cover": "{COVER_URL}/695.png",
+    "url": "{HTML_URL}/695.html",
+    "author": "Wix Games",
+    "authorLink": "https://www.wixgames.co.uk/",
+    "special": [
+      "port"
+    ]
   }
 ]
