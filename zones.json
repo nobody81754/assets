@@ -6145,5 +6145,13 @@
     "url": "{HTML_URL}/698.html",
     "author": "justaliendev",
     "authorLink": "https://www.crazygames.com/game/bank-robbery-3"
+  },
+  {
+    "id": 699,
+    "name": "Stickman Destruction",
+    "cover": "{COVER_URL}/699.png",
+    "url": "{HTML_URL}/699.html",
+    "author": "freezenova",
+    "authorLink": "https://unblocked-games.s3.amazonaws.com/index.html"
   }
 ]
