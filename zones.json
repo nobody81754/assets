@@ -1063,7 +1063,7 @@
     "id": 123,
     "name": "Poly Track",
     "cover": "{COVER_URL}/123.png",
-    "url": "{HTML_URL}/123.html",
+    "url": "{HTML_URL}/123-fixed.html",
     "author": "Kodub",
     "authorLink": "https://www.kodub.com"
   },
