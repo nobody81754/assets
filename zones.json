@@ -991,7 +991,7 @@
     "id": 114,
     "name": "2048",
     "cover": "{COVER_URL}/114.png",
-    "url": "{HTML_URL}/114-f.html",
+    "url": "{HTML_URL}/114.html",
     "author": "Gabriele Cirulli",
     "authorLink": "https://github.com/gabrielecirulli"
   },
@@ -6020,7 +6020,7 @@
   },
   {
     "id": 687,
-    "name": "Pico's School",
+    "name": "Pico's School (1999)",
     "cover": "{COVER_URL}/687.png",
     "url": "{HTML_URL}/687.html",
     "author": "Tom Fulp",
@@ -6172,5 +6172,13 @@
     "url": "{HTML_URL}/701.html",
     "author": "freezenova",
     "authorLink": "https://unblocked-games.s3.amazonaws.com/index.html" 
+  },
+  {
+    "id": 702,
+    "name": "JavascriptPS1",
+    "cover": "{COVER_URL}/701.png",
+    "url": "{HTML_URL}/701.html",
+    "author": "Alex Ashnov",
+    "authorLink": "https://github.com/AlexAshnovSrc/JavascriptPS1"
   }
 ]
