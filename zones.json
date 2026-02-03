@@ -857,7 +857,7 @@
     "id": 100,
     "name": "Moto X3M Winter",
     "cover": "{COVER_URL}/100.png",
-    "url": "{HTML_URL}/100.html",
+    "url": "{HTML_URL}/100-f.html",
     "author": "MadPuffers",
     "authorLink": "https://www.madpuffers.com"
   },
@@ -1063,7 +1063,7 @@
     "id": 123,
     "name": "Poly Track",
     "cover": "{COVER_URL}/123.png",
-    "url": "{HTML_URL}/123-fixed.html",
+    "url": "{HTML_URL}/123-win.html",
     "author": "Kodub",
     "authorLink": "https://www.kodub.com"
   },
