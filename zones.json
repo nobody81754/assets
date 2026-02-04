@@ -6180,5 +6180,13 @@
     "url": "{HTML_URL}/702.html",
     "author": "Alex Ashnov",
     "authorLink": "https://github.com/AlexAshnovSrc/JavascriptPS1"
+  },
+  {
+    "id": 703,
+    "name": "VS Rewrite: ROUND 2",
+    "cover": "{COVER_URL}/703.png",
+    "url": "{HTML_URL}/703.html",
+    "author": "Rewrite team",
+    "authorLink": "https://gamebanana.com/mods/599931"
   }
 ]
