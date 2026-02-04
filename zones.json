@@ -6187,6 +6187,20 @@
     "cover": "{COVER_URL}/703.png",
     "url": "{HTML_URL}/703.html",
     "author": "Rewrite team",
-    "authorLink": "https://gamebanana.com/mods/599931"
+    "authorLink": "https://gamebanana.com/mods/599931",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 704,
+    "name": "Five Nights at Freddy's: World Refreshed",
+    "cover": "{COVER_URL}/704.png",
+    "url": "{HTML_URL}/704.html",
+    "author": "Pyturret",
+    "authorLink": "https://gamejolt.com/games/FWrefreshed/946129",
+    "special": [
+      "port"
+    ]
   }
 ]
