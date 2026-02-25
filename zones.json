@@ -1015,7 +1015,7 @@
     "id": 117,
     "name": "Space Waves",
     "cover": "{COVER_URL}/117.png",
-    "url": "{HTML_URL}/117.html",
+    "url": "{HTML_URL}/117-fix.html",
     "author": "do.games",
     "authorLink": "https://play.google.com/store/apps/dev?id=8163162718412732005&hl=en_US"
   },
