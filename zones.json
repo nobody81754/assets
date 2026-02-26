@@ -17,7 +17,7 @@
     "id": 1,
     "name": "OvO",
     "cover": "{COVER_URL}/1.png",
-    "url": "{HTML_URL}/1-fd.html",
+    "url": "{HTML_URL}/1-fde.html",
     "author": "Dedra Games",
     "authorLink": "https://dedragames.com"
   },
@@ -722,7 +722,7 @@
     "id": 85,
     "name": "Cut the Rope",
     "cover": "{COVER_URL}/85.png",
-    "url": "{HTML_URL}/85.html",
+    "url": "{HTML_URL}/85-f.html",
     "author": "ZeptoLab",
     "authorLink": "https://www.zeptolab.com"
   },
@@ -1705,7 +1705,7 @@
     "id": 212,
     "name": "Cut the Rope",
     "cover": "{COVER_URL}/212.png",
-    "url": "{HTML_URL}/212.html",
+    "url": "{HTML_URL}/212-f.html",
     "author": "ZeptoLab",
     "authorLink": "https://www.zeptolab.com"
   },
@@ -1713,7 +1713,7 @@
     "id": 213,
     "name": "Cut the Rope: Time Travel",
     "cover": "{COVER_URL}/213.png",
-    "url": "{HTML_URL}/213.html",
+    "url": "{HTML_URL}/213-f.html",
     "author": "ZeptoLab",
     "authorLink": "https://www.zeptolab.com"
   },
@@ -1721,7 +1721,7 @@
     "id": 214,
     "name": "Cut the Rope: Holiday Gift",
     "cover": "{COVER_URL}/214.png",
-    "url": "{HTML_URL}/214.html",
+    "url": "{HTML_URL}/214-f.html",
     "author": "ZeptoLab",
     "authorLink": "https://www.zeptolab.com"
   },
