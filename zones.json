@@ -6547,9 +6547,22 @@
     "cover": "{COVER_URL}/738.png",
     "url": "{HTML_URL}/738.html",
     "author": "PlaySide Studios Ltd",
-    "authorLink": "https://store.steampowered.com/app/3079280/Saihate_Station/",
-    "special": [
-      "port"
-    ]
+    "authorLink": "https://store.steampowered.com/app/3079280/Saihate_Station/"
+  },
+  {
+    "id": 739,
+    "name": "Soccer Random",
+    "cover": "{COVER_URL}/739.png",
+    "url": "{HTML_URL}/739.html",
+    "author": "RHM Interactive OÜ",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.twoplayergames.soccerrandom"
+  },
+  {
+    "id": 740,
+    "name": "Bart Blast",
+    "cover": "{COVER_URL}/740.png",
+    "url": "{HTML_URL}/740.html",
+    "author": "epickface",
+    "authorLink": "https://bartblast.itch.io/bart-blast"
   }
 ]
