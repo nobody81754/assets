@@ -6540,5 +6540,16 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 738,
+    "name": "Dumb Ways to Die",
+    "cover": "{COVER_URL}/738.png",
+    "url": "{HTML_URL}/738.html",
+    "author": "PlaySide Studios Ltd",
+    "authorLink": "https://store.steampowered.com/app/3079280/Saihate_Station/",
+    "special": [
+      "port"
+    ]
   }
 ]
