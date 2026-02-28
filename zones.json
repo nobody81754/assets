@@ -6564,5 +6564,21 @@
     "url": "{HTML_URL}/740.html",
     "author": "epickface",
     "authorLink": "https://bartblast.itch.io/bart-blast"
+  },
+  {
+    "id": 741,
+    "name": "Resident Evil",
+    "cover": "{COVER_URL}/741.png",
+    "url": "{HTML_URL}/741.html",
+    "author": "Capcom",
+    "authorLink": "https://www.capcom.com/"
+  },
+  {
+    "id": 742,
+    "name": "Resident Evil 2",
+    "cover": "{COVER_URL}/742.png",
+    "url": "{HTML_URL}/742.html",
+    "author": "Capcom",
+    "authorLink": "https://www.capcom.com/"
   }
 ]
