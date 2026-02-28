@@ -6571,7 +6571,11 @@
     "cover": "{COVER_URL}/741.png",
     "url": "{HTML_URL}/741.html",
     "author": "Capcom",
-    "authorLink": "https://www.capcom.com/"
+    "authorLink": "https://www.capcom.com/",
+    "special": [
+      "emulator",
+      "psx"
+    ]
   },
   {
     "id": 742,
@@ -6579,6 +6583,10 @@
     "cover": "{COVER_URL}/742.png",
     "url": "{HTML_URL}/742.html",
     "author": "Capcom",
-    "authorLink": "https://www.capcom.com/"
+    "authorLink": "https://www.capcom.com/",
+    "special": [
+      "emulator",
+      "psx"
+    ]
   }
 ]
