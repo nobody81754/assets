@@ -6588,5 +6588,16 @@
       "emulator",
       "psx"
     ]
+  },
+  {
+    "id": 743,
+    "name": "Power Hover",
+    "cover": "{COVER_URL}/743.png",
+    "url": "{HTML_URL}/743.html",
+    "author": "ODDROK",
+    "authorLink": "https://store.steampowered.com/app/559960/Power_Hover/",
+    "special": [
+      "port"
+    ]
   }
 ]
