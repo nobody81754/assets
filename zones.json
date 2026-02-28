@@ -217,7 +217,7 @@
     "id": 27,
     "name": "Geometry Dash Lite (REMAKE)",
     "cover": "{COVER_URL}/27.png",
-    "url": "{HTML_URL}/27.html",
+    "url": "{HTML_URL}/27-f.html",
     "author": "RobTop Games",
     "authorLink": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite"
   },
@@ -551,7 +551,7 @@
     "id": 67,
     "name": "Big Tower Tiny Square",
     "cover": "{COVER_URL}/67.png",
-    "url": "{HTML_URL}/67.html",
+    "url": "{HTML_URL}/67-f.html",
     "author": "EvilObjective",
     "authorLink": "https://evilobjective.itch.io"
   },
