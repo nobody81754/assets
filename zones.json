@@ -2254,7 +2254,7 @@
     "id": 265,
     "name": "Escape Road 2",
     "cover": "{COVER_URL}/265.png",
-    "url": "{HTML_URL}/265.html",
+    "url": "{HTML_URL}/265-fix.html",
     "author": "AzGames",
     "authorLink": "https://azgames.io/escape-road-2"
   },
@@ -6599,5 +6599,13 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 744,
+    "name": "Escape Road City 2",
+    "cover": "{COVER_URL}/744.png",
+    "url": "{HTML_URL}/744.html",
+    "author": "AZ Games",
+    "authorLink": "https://azgames.io/"
   }
 ]
