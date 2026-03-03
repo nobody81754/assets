@@ -6250,18 +6250,6 @@
     "authorLink": "https://play.google.com/store/apps/details?id=com.dxx.firenow"
   },
   {
-    "id": 710,
-    "name": "Five Nights at Epstein's",
-    "cover": "{COVER_URL}/710.png",
-    "url": "{HTML_URL}/710-fix.html",
-    "author": "EvanProductions",
-    "authorLink": "https://evanproductions.itch.io/five-nights-at-epsteins",
-    "special": [
-      "port"
-    ],
-    "featured": true
-  },
-  {
     "id": 711,
     "name": "Antonblast",
     "cover": "{COVER_URL}/711.png",
