@@ -6607,5 +6607,44 @@
     "url": "{HTML_URL}/744.html",
     "author": "AZ Games",
     "authorLink": "https://azgames.io/"
+  },
+  {
+    "id": 745,
+    "name": "Tetris",
+    "cover": "{COVER_URL}/745.png",
+    "url": "{HTML_URL}/745.html",
+    "author": "Nintendo",
+    "authorLink": "https://www.nintendo.com/",
+    "special": [
+      "emulator",
+      "nes"
+    ]
+  },
+  {
+    "id": 746,
+    "name": " Fundamental Paper Novel",
+    "cover": "{COVER_URL}/746.png",
+    "url": "{HTML_URL}/746.html",
+    "author": "yakubell",
+    "authorLink": ":https://yakubelle.itch.io/fundamental-paper-novel",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 747,
+    "name": "Worst Time Simulator",
+    "cover": "{COVER_URL}/747.png",
+    "url": "{HTML_URL}/747.html",
+    "author": "omegafredo",
+    "authorLink": "https://omegafredo.github.io/worst-time-simulator/"
+  },
+  {
+    "id": 748,
+    "name": "Undertale Last Breath PHASE THREE",
+    "cover": "{COVER_URL}/748.png",
+    "url": "{HTML_URL}/748.html",
+    "author": "mario1d240",
+    "authorLink": "https://mario1d240.github.io/undertale-last-breath-remake-bad-time-simulator/"
   }
 ]
