@@ -6646,5 +6646,13 @@
     "url": "{HTML_URL}/748.html",
     "author": "mario1d240",
     "authorLink": "https://mario1d240.github.io/undertale-last-breath-remake-bad-time-simulator/"
+  },
+  {
+    "id": 749,
+    "name": "Super Monkey Ball 1&2",
+    "cover": "{COVER_URL}/749.png",
+    "url": "{HTML_URL}/749.html",
+    "author": "Amusement Vision, camthesaxman etc",
+    "authorLink": "https://monkeyball-online.pages.dev/"
   }
 ]
