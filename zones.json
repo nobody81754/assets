@@ -6676,5 +6676,16 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 752,
+    "name": "Bad Piggies",
+    "cover": "{COVER_URL}/752.png",
+    "url": "{HTML_URL}/752.html",
+    "author": "Rovio Entertainment",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.rovio.BadPiggies&hl=en_US",
+    "special": [
+      "port"
+    ]
   }
 ]
