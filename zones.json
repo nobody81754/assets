@@ -6545,8 +6545,8 @@
     "id": 738,
     "name": "Dumb Ways to Die",
     "cover": "{COVER_URL}/738.png",
-    "url": "{HTML_URL}/738.html",
-    "author": "PlaySide Studios Ltd",
+    "url": "{HTML_URL}/738-u.html",
+    "author": "PlaySide Studios Ltd, Metro Trains",
     "authorLink": "https://store.steampowered.com/app/3079280/Saihate_Station/"
   },
   {
@@ -6695,5 +6695,16 @@
     "url": "{HTML_URL}/753.html",
     "author": "Print More India",
     "authorLink": "https://play.google.com/store/apps/details?id=com.pmi.breaklock"
+  },
+  {
+    "id": 754,
+    "name": "Minecraft Pocket Edition",
+    "cover": "{COVER_URL}/754.png",
+    "url": "{HTML_URL}/754.html",
+    "author": "Mojang",
+    "authorLink": "https://mojang.com",
+    "special": [
+      "port"
+    ]
   }
 ]
