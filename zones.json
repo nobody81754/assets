@@ -5039,8 +5039,8 @@
     "id": 590,
     "name": "Sonic Mania",
     "cover": "{COVER_URL}/590.png",
-    "url": "{HTML_URL}/590.html",
-    "author": "SEGA",
+    "url": "{HTML_URL}/590-f.html",
+    "author": "SEGA, crunch arcade",
     "authorLink": "https://sega.com",
     "special": [
       "port"
