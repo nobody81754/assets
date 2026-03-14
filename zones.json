@@ -6721,7 +6721,10 @@
     "cover": "{COVER_URL}/756.png",
     "url": "{HTML_URL}/756-f.html",
     "author": "IZ (BLUE STAR Entertainment)",
-    "authorLink": "https://bluestariz.web.fc2.com/zentai.html"
+    "authorLink": "https://bluestariz.web.fc2.com/zentai.html",
+    "special": [
+      "port"
+    ]
   },
   {
     "id": 757,
@@ -6729,6 +6732,9 @@
     "cover": "{COVER_URL}/757.png",
     "url": "{HTML_URL}/757.html",
     "author": "Icedrop Games, mysmic",
-    "authorLink": "https://store.steampowered.com/app/4195110/Ultrapool/"
+    "authorLink": "https://store.steampowered.com/app/4195110/Ultrapool/",
+    "special": [
+      "port"
+    ]
   }
 ]
