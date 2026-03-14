@@ -6714,5 +6714,21 @@
     "url": "{HTML_URL}/755.html",
     "author": "Fire Games, Supercell",
     "authorLink": "https://yandex.com/games/developer/77286"
+  },
+  {
+    "id": 756,
+    "name": "Witch's Heart",
+    "cover": "{COVER_URL}/756.png",
+    "url": "{HTML_URL}/756.html",
+    "author": "IZ (BLUE STAR Entertainment)",
+    "authorLink": "https://bluestariz.web.fc2.com/zentai.html"
+  },
+  {
+    "id": 757,
+    "name": "Ultrapool",
+    "cover": "{COVER_URL}/757.png",
+    "url": "{HTML_URL}/757.html",
+    "author": "Icedrop Games, mysmic",
+    "authorLink": "https://store.steampowered.com/app/4195110/Ultrapool/"
   }
 ]
