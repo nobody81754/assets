@@ -6758,5 +6758,16 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 761,
+    "name": "FISH",
+    "cover": "{COVER_URL}/761.png",
+    "url": "{HTML_URL}/761.html",
+    "author": "dmcaguy",
+    "authorLink": "https://dmcaguy.itch.io/fish",
+    "special": [
+      "port"
+    ]
   }
 ]
