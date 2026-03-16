@@ -6815,5 +6815,13 @@
     "url": "{HTML_URL}/766.html",
     "author": "unknown",
     "authorLink": "https://gn-math.dev"
+  },
+  {
+    "id": 767,
+    "name": "Stick Slasher",
+    "cover": "{COVER_URL}/767.png",
+    "url": "{HTML_URL}/767.html",
+    "author": "Beruke Games",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.BerukeGames.StickSlasher"
   }
 ]
