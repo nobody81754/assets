@@ -6831,5 +6831,13 @@
     "url": "{HTML_URL}/768.html",
     "author": "GamePush",
     "authorLink": "https://www.crazygames.com/game/stickman-kombat-2d"
+  },
+  {
+    "id": 769,
+    "name": "Stickman Duel",
+    "cover": "{COVER_URL}/769.png",
+    "url": "{HTML_URL}/769.html",
+    "author": "unknown",
+    "authorLink": "https://gn-math.dev"
   }
 ]
