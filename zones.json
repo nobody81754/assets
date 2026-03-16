@@ -6791,5 +6791,16 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 764,
+    "name": "Five Night's at Shrek's Hotel",
+    "cover": "{COVER_URL}/764.png",
+    "url": "{HTML_URL}/764.html",
+    "author": "rend-pii",
+    "authorLink": "https://rend-pii.itch.io/five-nights-at-shreks-hotel-2",
+    "special": [
+      "port"
+    ]
   }
 ]
