@@ -2530,17 +2530,6 @@
     "authorLink": "https://play.google.com/store/apps/dev?id=6107531068522107777&hl=en_US"
   },
   {
-    "id": 296,
-    "name": "Play!.js",
-    "cover": "{COVER_URL}/296.png",
-    "url": "{HTML_URL}/296.html",
-    "author": "jpd002",
-    "authorLink": "https://github.com/jpd002/Play-",
-    "special": [
-      "emulator"
-    ]
-  },
-  {
     "id": 297,
     "name": "Minecraft 1.5.2",
     "cover": "{COVER_URL}/297.png",
@@ -6744,6 +6733,17 @@
     "url": "{HTML_URL}/758.html",
     "author": "Ronezkj15",
     "authorLink": "https://gamebanana.com/mods/507799",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 759,
+    "name": "Dice a Million",
+    "cover": "{COVER_URL}/759.png",
+    "url": "{HTML_URL}/759.html",
+    "author": "countlessnights, 2 Left Thumbs, NotRexed",
+    "authorLink": "https://store.steampowered.com/app/3430340/Dice_A_Million/",
     "special": [
       "port"
     ]
