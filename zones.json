@@ -6807,5 +6807,13 @@
     "url": "{HTML_URL}/765.html",
     "author": "kharbor_ykt",
     "authorLink": "https://www.roblox.com/games/137826330724902/Scary-Shawarma-Kiosk-the-ANOMALY"
+  },
+  {
+    "id": 766,
+    "name": "Suika Game",
+    "cover": "{COVER_URL}/766.png",
+    "url": "{HTML_URL}/766.html",
+    "author": "unknown",
+    "authorLink": "https://gn-math.dev"
   }
 ]
