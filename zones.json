@@ -6839,5 +6839,13 @@
     "url": "{HTML_URL}/769.html",
     "author": "unknown",
     "authorLink": "https://gn-math.dev"
+  },
+  {
+    "id": 770,
+    "name": "Sonic Robo Blast 2",
+    "cover": "{COVER_URL}/770.png",
+    "url": "{HTML_URL}/770.html",
+    "author": "Sonic Team Junior, crunch, vinmannie",
+    "authorLink": "https://www.srb2.org/"
   }
 ]
