@@ -357,7 +357,7 @@
     "id": 44,
     "name": "Ragdoll Hit",
     "cover": "{COVER_URL}/44.png",
-    "url": "{HTML_URL}/44.html",
+    "url": "{HTML_URL}/44-fix.html",
     "author": "Kids Games LLC",
     "authorLink": "https://play.google.com/store/apps/dev?id=6566434917716295659&hl=en_US"
   },
@@ -535,7 +535,7 @@
     "id": 65,
     "name": "Baldi's Basics",
     "cover": "{COVER_URL}/65.png",
-    "url": "{HTML_URL}/65-fix.html",
+    "url": "{HTML_URL}/65-fixed.html",
     "author": "Basically Games",
     "authorLink": "https://basically-games.itch.io/baldis-basics"
   },
