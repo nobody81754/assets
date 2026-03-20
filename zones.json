@@ -2144,11 +2144,11 @@
   },
   {
     "id": 253,
-    "name": "Chat Bot (A.|.I)",
+    "name": "Chat Bot AI (A.I GPT)",
     "cover": "{COVER_URL}/253.png",
-    "url": "{HTML_URL}/253.html",
+    "url": "{HTML_URL}/253-update.html",
     "author": "gn-math",
-    "authorLink": "https://gn-math.github.io",
+    "authorLink": "https://gn-math.dev",
     "featured": true,
     "special": [
       "tools"
