@@ -6847,5 +6847,17 @@
     "url": "{HTML_URL}/770.html",
     "author": "Sonic Team Junior, crunch, vinmannie",
     "authorLink": "https://www.srb2.org/"
+  },
+  {
+    "id": 771,
+    "name": "Hollow Knight: Silksong",
+    "cover": "{COVER_URL}/771.png",
+    "url": "{HTML_URL}/771.html",
+    "author": "Team Cherry, Edurocks",
+    "authorLink": "https://www.teamcherry.com.au/",
+    "featured": true,
+    "special": [
+      "port"
+    ]
   }
 ]
