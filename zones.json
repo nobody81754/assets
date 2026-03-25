@@ -771,7 +771,7 @@
     "id": 90,
     "name": "Granny",
     "cover": "{COVER_URL}/90.png",
-    "url": "{HTML_URL}/90-f.html",
+    "url": "{HTML_URL}/90-fix2.html",
     "author": "DVloper",
     "authorLink": "https://grannyhorror.com",
     "special": [
