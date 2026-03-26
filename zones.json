@@ -6892,5 +6892,13 @@
     "url": "{HTML_URL}/774.html",
     "author": "stefano1234",
     "authorLink": "https://www.construct.net/en/free-online-games/mountain-bike-runner-20988/play"
+  },
+  {
+    "id": 775,
+    "name": "Bart Bash",
+    "cover": "{COVER_URL}/775.png",
+    "url": "{HTML_URL}/775.html",
+    "author": "TeleSTOP",
+    "authorLink": "https://bartbash.com/"
   }
 ]
