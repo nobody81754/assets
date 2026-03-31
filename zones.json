@@ -6950,5 +6950,25 @@
     "special": [
       "flash"
     ]
+  },
+  {
+    "id": 781,
+    "name": "Scratch Inc",
+    "cover": "{COVER_URL}/781.png",
+    "url": "{HTML_URL}/781.html",
+    "author": "Makopaz",
+    "authorLink": "https://store.steampowered.com/app/3788420/Scratch_Inc/"
+  },
+  {
+    "id": 782,
+    "name": "Um Jammer Lammy",
+    "cover": "{COVER_URL}/782.png",
+    "url": "{HTML_URL}/782.html",
+    "author": "NanaOn-Sha",
+    "authorLink": "https://www.retrogames.cc/psx-games/um-jammer-lammy-usa.html",
+    "special": [
+      "emulator",
+      "psx"
+    ]
   }
 ]
