@@ -7016,7 +7016,7 @@
     "id": 787,
     "name": "BeatBlock",
     "cover": "{COVER_URL}/787.png",
-    "url": "{HTML_URL}/787.html",
+    "url": "{HTML_URL}/787.html", 
     "author": "BubbleTabby, sunsuke",
     "authorLink": "https://store.steampowered.com/app/3045200/Beatblock/"
   }
