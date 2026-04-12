@@ -1,4 +1,4 @@
-var PokiPlugin = {
+freebuisness/assetsvar PokiPlugin = {
     adblock : false,
     isPaused : false,
     canShowAds : false,

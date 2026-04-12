@@ -7018,6 +7018,21 @@
     "cover": "{COVER_URL}/787.png",
     "url": "{HTML_URL}/787.html", 
     "author": "BubbleTabby, sunsuke",
-    "authorLink": "https://store.steampowered.com/app/3045200/Beatblock/"
+    "authorLink": "https://store.steampowered.com/app/3045200/Beatblock/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 788,
+    "name": "Vib-Robbin",
+    "cover": "{COVER_URL}/788.png",
+    "url": "{HTML_URL}/788.html", 
+    "author": "NanaOn-Sha, Japan Studio",
+    "authorLink": "https://www.nanaon-sha.co.jp/",
+    "special": [
+      "emulator",
+      "psx"
+    ]
   }
 ]
