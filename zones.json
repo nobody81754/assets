@@ -7034,5 +7034,27 @@
       "emulator",
       "psx"
     ]
+  },
+  {
+    "id": 789,
+    "name": "Stardew Valley",
+    "cover": "{COVER_URL}/789.png",
+    "url": "{HTML_URL}/789.html", 
+    "author": "The Secret Police Limited, ConcernedApe, Cirsius",
+    "authorLink": "https://www.stardewvalley.net/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 790,
+    "name": "Helltaker",
+    "cover": "{COVER_URL}/790.png",
+    "url": "{HTML_URL}/790.html", 
+    "author": "Vanripper, wasm.rip",
+    "authorLink": "https://vanripper.itch.io/",
+    "special": [
+      "port"
+    ]
   }
 ]
