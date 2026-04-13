@@ -7067,5 +7067,13 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 792,
+    "name": "Escape Road 3",
+    "cover": "{COVER_URL}/792.png",
+    "url": "{HTML_URL}/792.html", 
+    "author": "AzGames",
+    "authorLink": "https://azgames.io/escape-road-3"
   }
 ]
