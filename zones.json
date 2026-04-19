@@ -7098,13 +7098,24 @@
       "port"
     ]
   },
- {
+  {
     "id": 795,
     "name": "UvuvwevwevweOnyetenvewveUgwemubwemOssas",
     "cover": "{COVER_URL}/795.png",
     "url": "{HTML_URL}/795.html", 
     "author": "Zakaria_ALZ",
     "authorLink": "https://gamebanana.com/mods/660542",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 796,
+    "name": "Slendytubbies 1",
+    "cover": "{COVER_URL}/796.png",
+    "url": "{HTML_URL}/796.html", 
+    "author": "Sean Toman",
+    "authorLink": "https://www.zeoworks.com/",
     "special": [
       "port"
     ]
