@@ -3616,9 +3616,9 @@
     "id": 429,
     "name": "Code Editor",
     "cover": "{COVER_URL}/429.png",
-    "url": "{HTML_URL}/429.html",
+    "url": "{HTML_URL}/429-f.html",
     "author": "gn-math",
-    "authorLink": "https://gn-math.github.io",
+    "authorLink": "https://gn-math.dev",
     "special": [
       "tools"
     ]
