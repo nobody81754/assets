@@ -6805,7 +6805,7 @@
   },
   {
     "id": 765,
-    "name": "Scary Shawarma Kiosk: the ANOMALY",
+    "name": "Scary Shawarma Kiosk: the ANOMALY (bad)",
     "cover": "{COVER_URL}/765.png",
     "url": "{HTML_URL}/765.html",
     "author": "kharbor_ykt",
@@ -7169,7 +7169,7 @@
    },
    {
     "id": 802,
-    "name": "Scary Shawarma Kiosk",
+    "name": "Scary Shawarma Kiosk (better)",
     "cover": "{COVER_URL}/802.png",
     "url": "{HTML_URL}/802.html", 
     "author": "Walther Uzi Buenavista",
