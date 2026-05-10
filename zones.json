@@ -7151,7 +7151,7 @@
    },
    {
     "id": 800,
-    "name": "Geometry dash wave better",
+    "name": "Geometry Dash Wave (better)",
     "cover": "{COVER_URL}/800.png",
     "url": "{HTML_URL}/800.html", 
     "author": "??",
@@ -7174,6 +7174,15 @@
     "url": "{HTML_URL}/802.html", 
     "author": "Walther Uzi Buenavista",
     "authorLink": "https://www.roblox.com/games/137826330724902/Scary-Shawarma-Kiosk-the-ANOMALY"
+    
+   },
+   {
+    "id": 803,
+    "name": "Tung Tung's Basics (mod)",
+    "cover": "{COVER_URL}/803.png",
+    "url": "{HTML_URL}/803.html", 
+    "author": "idk",
+    "authorLink": "idkkk"
     
    }
 ]
