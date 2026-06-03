@@ -7211,5 +7211,14 @@
     "author": "playgama",
     "authorLink": "nnn"
     
+   },
+  {
+    "id": 808,
+    "name": "Merge Fruits",
+    "cover": "{COVER_URL}/808.png",
+    "url": "{HTML_URL}/808.html", 
+    "author": "classroom6x",
+    "authorLink": "https://sites.google.com/view/classroom6x/home"
+    
    }
 ]
