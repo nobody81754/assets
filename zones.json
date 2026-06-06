@@ -7240,5 +7240,16 @@
     "featured": true
     
     
+   },
+  {
+    "id": 811,
+    "name": "Spotify",
+    "cover": "{COVER_URL}/811.png",
+    "url": "{HTML_URL}/811.html", 
+    "author": "spotify",
+    "authorLink": "https://open.spotify.com/",
+    "featured": true
+    
+    
    }
 ]
