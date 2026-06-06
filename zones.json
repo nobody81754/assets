@@ -7229,5 +7229,16 @@
     "author": "g+",
     "authorLink": "https://sites.google.com/view/drive-u-7-home/knife-hit"
     
+   },
+  {
+    "id": 810,
+    "name": "Trash Clash",
+    "cover": "{COVER_URL}/810.png",
+    "url": "{HTML_URL}/810.html", 
+    "author": "greenfoot",
+    "authorLink": "https://www.greenfoot.org/scenarios/27793",
+    "featured": true
+    
+    
    }
 ]
